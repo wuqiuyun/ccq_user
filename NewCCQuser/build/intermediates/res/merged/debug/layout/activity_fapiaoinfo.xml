@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="@color/color_red" >
+
+        <LinearLayout
+            android:id="@+id/line_back"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/wleft" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="发票信息"
+            android:textColor="@color/color_white"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@color/color_white"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            android:text="发票信息"
+            android:textColor="@color/color_text_black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            android:layout_marginLeft="12dp"
+            android:background="@drawable/fapiao"
+            android:gravity="center"
+            android:text="普通发票"
+            android:textColor="@color/color_red"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@color/color_white"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            android:text="发票抬头"
+            android:textColor="@color/color_text_black"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/et_fptt"
+            android:layout_width="fill_parent"
+            android:layout_height="35dp"
+            android:layout_marginBottom="12dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:background="@drawable/shuru"
+            android:hint="普通发票"
+            android:singleLine="true"
+            android:padding="5dp"
+            android:textColor="@color/color_text_grey"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@color/color_white"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            android:text="发票内容"
+            android:textColor="@color/color_text_black"
+            android:textSize="16sp" />
+
+        <RadioGroup
+            android:id="@+id/tabs_rg"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:paddingLeft="6dp" >
+
+            <RadioButton
+                android:id="@+id/radio_mx"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="@color/transparent"
+                android:button="@null"
+                android:checked="true"
+                android:drawableLeft="@drawable/selector_fapiao"
+                android:drawablePadding="8dp"
+                android:singleLine="true"
+                android:text="明细"
+                android:textColor="@color/color_text_grey"
+                android:textSize="13sp" />
+
+            <RadioButton
+                android:id="@+id/radio_bgyp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="@color/transparent"
+                android:button="@null"
+                android:drawableLeft="@drawable/selector_fapiao"
+                android:drawablePadding="8dp"
+                android:singleLine="true"
+                android:text="办公用品"
+                android:textColor="@color/color_text_grey"
+                android:textSize="13sp" />
+
+            <RadioButton
+                android:id="@+id/radio_dnpj"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="@color/transparent"
+                android:button="@null"
+                android:drawableLeft="@drawable/selector_fapiao"
+                android:drawablePadding="8dp"
+                android:singleLine="true"
+                android:text="电脑配件"
+                android:textColor="@color/color_text_grey"
+                android:textSize="13sp" />
+
+            <RadioButton
+                android:id="@+id/radio_dnhc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="@color/transparent"
+                android:button="@null"
+                android:drawableLeft="@drawable/selector_fapiao"
+                android:drawablePadding="8dp"
+                android:singleLine="true"
+                android:text="电脑耗材"
+                android:textColor="@color/color_text_grey"
+                android:textSize="13sp"
+                android:layout_marginBottom="6dp" />
+        </RadioGroup>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,1218 @@
+[
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_message.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\popupwindow_message.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_red_moban.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_red_moban.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sys_capture.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_sys_capture.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_pingjia.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_pingjia.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_storedetail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_storedetail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_newopenstore.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_newopenstore.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_shopcart_main.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_shopcart_main.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_no_pay_top.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_no_pay_top.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_messageeverydetail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_messageeverydetail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\tuisongmain.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\tuisongmain.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fenlei.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_fenlei.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_tuikuanshouhou.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_tuikuanshouhou.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loginmima.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_loginmima.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\view_new_openstore_info.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\view_new_openstore_info.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\feature.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\feature.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yijianfankui.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_yijianfankui.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yuanphone_yzm.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_yuanphone_yzm.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_newmy_order.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_newmy_order.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xiugaizhifumima.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_xiugaizhifumima.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ccqprodetail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_ccqprodetail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_allccqjuanorshop.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_allccqjuanorshop.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wuliu.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_wuliu.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_savefapiao.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_savefapiao.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_productdetail_guige.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_productdetail_guige.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_alldindan_shop.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_alldindan_shop.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_myadress.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_myadress.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lastlocation.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_lastlocation.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_newhuiyuangetvip.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_newhuiyuangetvip.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bankcard.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_bankcard.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ccq1.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_ccq1.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_tixiantype.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_tixiantype.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pay_bindphone_result.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_pay_bindphone_result.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_daohang.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_daohang.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\customer_notitfication_layout.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alldiqu.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_alldiqu.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_search_shop.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_search_shop.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tongzhi.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_tongzhi.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_ccq_sy_store.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_ccq_sy_store.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addbankcardwrz.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_addbankcardwrz.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myaddress.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_myaddress.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_dshdindan_shop.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_dshdindan_shop.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addbankpic.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_addbankpic.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bawangcan.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_bawangcan.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_result.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_result.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout_one.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\customer_notitfication_layout_one.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pinjia.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_pinjia.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xiugaipaymima.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_xiugaipaymima.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\wheel_date_picker.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\wheel_date_picker.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_newaddbankcard.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_newaddbankcard.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_ccqprodetaillist.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_ccqprodetaillist.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_geofence.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_geofence.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_detail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_sy_huodong.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_sy_huodong.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_load.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\scroll_load.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_openstore.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_openstore.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_newmywallety.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_newmywallety.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_buyzkja.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_buyzkja.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_order.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_order.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_near.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_near.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sign.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_sign.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\list_footer_view.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\list_footer_view.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_productguige_group.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_productguige_group.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xfmd.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_xfmd.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_ccq_juan.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_ccq_juan.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_order.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_no_pay.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_no_pay.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_problem.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_problem.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_sy_fenlei.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_sy_fenlei.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zhifusuccess.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_zhifusuccess.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_no_use.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_no_use.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_xingbie.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_xingbie.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_newsettinginfo.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_newsettinginfo.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_alldindan_goods.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_alldindan_goods.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_ccq_city.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_ccq_city.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_ccq_fenleitwo.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_ccq_fenleitwo.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_no_pay_recommend.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_no_pay_recommend.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chakanjuanma.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_chakanjuanma.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_gwc_delete.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_gwc_delete.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mywallety.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_mywallety.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_querenshouhuo.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_querenshouhuo.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_newyunbioryuedetail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_newyunbioryuedetail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tuikuantuihuo.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_tuikuantuihuo.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ccqtagdetail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_ccqtagdetail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\updata_loading.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\updata_loading.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_bankcard.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_bankcard.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mmregist.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_mmregist.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgetmm.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_forgetmm.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_new_order.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_new_order.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\product_guige.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\product_guige.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_hot_search.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_hot_search.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_ccq_fenleione.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_ccq_fenleione.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_paizhao.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_paizhao.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\view_new_openstore_img.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\view_new_openstore_img.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setpaymima.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_setpaymima.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_all_order.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_all_order.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_xuliu_info.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_xuliu_info.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bigpicchange.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_bigpicchange.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ccqdindandetail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_ccqdindandetail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_sy_erjifenlei.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_sy_erjifenlei.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_ccq_qbfl.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\popupwindow_ccq_qbfl.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_storepic.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_storepic.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recommend_food.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_recommend_food.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yunbiduihuanvip.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_yunbiduihuanvip.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\view_fragment_ccq1_list_top.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\view_fragment_ccq1_list_top.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_tianxiedindan.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_tianxiedindan.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bankcardlist.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_bankcardlist.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_allpinjia.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_allpinjia.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\push_set_dialog.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\push_set_dialog.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\view_syky_info.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\view_syky_info.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_location_option.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\plugin_location_option.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pay_result.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_pay_result.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_gv_like.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_gv_like.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shezhipaymima.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_shezhipaymima.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_dindandetail_group.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_dindandetail_group.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wangjipaymima.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_wangjipaymima.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_search_ccq.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_search_ccq.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_searchproductresult.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_searchproductresult.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choosecity.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_choosecity.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dfkdindan.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_dfkdindan.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_cai.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_cai.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_viu_huiyuan.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_viu_huiyuan.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ccq.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_ccq.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qupingjia.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_qupingjia.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_newweishimingrenzheng.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_newweishimingrenzheng.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_sy_wuliu.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_sy_wuliu.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_ccq_allpinjia.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_ccq_allpinjia.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_ccq_shop.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_ccq_shop.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_ccq_sy_quan.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_ccq_sy_quan.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_tixian.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_tixian.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sys_title.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_sys_title.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_xsqupingjia.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_xsqupingjia.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_newstoredetail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_newstoredetail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_sys_result.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_sys_result.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xiaofeimaidandetail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_xiaofeimaidandetail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_no_pay.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_no_pay.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_storequan.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_storequan.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yqzc.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_yqzc.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_touxiang.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_touxiang.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_newbindphone.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_newbindphone.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_buyzkj.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_buyzkj.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_product.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_product.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tixian.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_tixian.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_newsetting.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_newsetting.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alldindan.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_alldindan.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_double_text_selection.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_double_text_selection.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_tixian_record.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_tixian_record.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setmm.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_setmm.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\down_notifiy.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\down_notifiy.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_searchshopresult.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_searchshopresult.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_gv_pp.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_gv_pp.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yongjindetail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_yongjindetail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_black.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_main_black.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_product_pinjia.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_product_pinjia.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_storeshangjia.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_storeshangjia.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_expay_entry.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_expay_entry.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_ccq_lwzj.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\popupwindow_ccq_lwzj.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ccq_store_top.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_ccq_store_top.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_yue_yunbi_guanli.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_yue_yunbi_guanli.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_bankcard_delete.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_bankcard_delete.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_no_evaluate.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_no_evaluate.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xsqupingjia.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_xsqupingjia.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dindan.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_dindan.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_storepingjia.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_storepingjia.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_ccq_store.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_ccq_store.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_xiugaiok.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_xiugaiok.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_sy_tongzhi.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_sy_tongzhi.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_recommend_all_goods.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_recommend_all_goods.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phoneyz.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_phoneyz.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_update.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_update.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sy.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_sy.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_recommend_food.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_recommend_food.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_viphuiyuan.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_viphuiyuan.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_spgg.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_spgg.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_dindandetail_product.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_dindandetail_product.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tixianrecord.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_tixianrecord.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paybindphone.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_paybindphone.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_huodong.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_huodong.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_ccq_quan.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_ccq_quan.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_grid_calendar.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_grid_calendar.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_discover_search_history.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_discover_search_history.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_laohuiyuan.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_laohuiyuan.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tixiantecorddetail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_tixiantecorddetail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shimingrenzheng.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_shimingrenzheng.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_suoshuhangye_lv.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_suoshuhangye_lv.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_yishivip.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_yishivip.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_storehuanjingpic.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_storehuanjingpic.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_ccq_qc.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\popupwindow_ccq_qc.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_mywattel_detail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_mywattel_detail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_shangjia.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_shangjia.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phonerenzheng.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_phonerenzheng.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_call.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_call.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addadress.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_addadress.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_product_detail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_product_detail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_zhanghujine.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_zhanghujine.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm_location.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_alarm_location.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_productdetail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_productdetail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yuanphone_yzm_next.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_yuanphone_yzm_next.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_dsydindan_shop.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_dsydindan_shop.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_hotsellinglv.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_hotsellinglv.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_search_product.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_search_product.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basic_navi.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_basic_navi.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mine_dindan_tianxiandindan.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_mine_dindan_tianxiandindan.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zhanghuandsafe.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_zhanghuandsafe.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_alldindan.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_alldindan.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shurunewphone_yzm.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_shurunewphone_yzm.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tools.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_tools.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sys_bottom.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_sys_bottom.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_dfkdindan_shop.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_dfkdindan_shop.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ccq_home.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_ccq_home.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_newweishimingrenzhengnext.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_newweishimingrenzhengnext.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_weishimingrenzheng.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_weishimingrenzheng.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yunbiduihuanshouyintai.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_yunbiduihuanshouyintai.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tianxiedindan.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_tianxiedindan.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_newproductlv.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_newproductlv.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_shopcart_group.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_shopcart_group.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_productguige_chidren.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_productguige_chidren.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_sign.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_sign.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addbankcard.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_addbankcard.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_findpassword.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_findpassword.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_gv_choosecity.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_gv_choosecity.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gwcshouyintai.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_gwcshouyintai.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\view_banner_content.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\view_banner_content.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_bind.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\dialog_bind.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zhanghuguanlian.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_zhanghuguanlian.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settinginfo.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_settinginfo.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_suoshuhangye.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_suoshuhangye.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tuikuandindandetail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_tuikuandindandetail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yunbioryuedetail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_yunbioryuedetail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_newme.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_newme.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\view_fragment_ccq_list_top.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\view_fragment_ccq_list_top.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ccqshouyintai.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_ccqshouyintai.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\set_push_time.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\set_push_time.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rzphone.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_rzphone.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recmmend_goods.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_recmmend_goods.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_dpjdindan_shop.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_dpjdindan_shop.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_searchchoose.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\popupwindow_searchchoose.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_order.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_my_order.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_suoshuhangyeerji_gv.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_suoshuhangyeerji_gv.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\view_ccqtag_detail_list_top.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\view_ccqtag_detail_list_top.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setloginmima.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_setloginmima.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ccq_top.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\fragment_ccq_top.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_ccqzhekoujuandetail.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_ccqzhekoujuandetail.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\item_shopcart_product.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\item_shopcart_product.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chaojimingquan.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_chaojimingquan.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zhuce.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_zhuce.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fapiaoinfo.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_fapiaoinfo.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_assistant_location.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_assistant_location.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chakanwuliu.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_chakanwuliu.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_errcode.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\activity_errcode.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\acticity_nicheng.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\layout\\acticity_nicheng.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    }
+]

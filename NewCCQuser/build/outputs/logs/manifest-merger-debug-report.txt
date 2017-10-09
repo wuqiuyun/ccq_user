@@ -1,0 +1,1250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:2:1-818:12
+	package
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml
+		INJECTED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml
+		INJECTED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml
+		INJECTED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [androiduser:MaterialRefresh:unspecified] D:\28yun\androiduser\MaterialRefresh\build\intermediates\bundles\default\AndroidManifest.xml:6:5-8:41
+MERGED from [androiduser:CCQShareSDK:unspecified] D:\28yun\androiduser\CCQShareSDK\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:0.1.9] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\a9f2414d0b9b310636c79a852c12f9508d97f299\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\b9140e5cd5a8a96ebd6f9a28925f84944c274cdb\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\d03deb99be898a33f96bd47bd1bc7901a1c29c71\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\acdebd46f056d28b5642a531f77e214ec7ba0948\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\079eb1d24ca0b2775003e23a8d9b85f47566efbc\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\c0e565d4ee576ddf2c0a05fbcce656a1101f3f46\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\a020378fb9af60177c7c6b2b254bf8d9fc4c06a4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\dffbc54c849a31001580a717776b2fc56c1cca9e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\0c0c471d439989b58d4f58788989d8d22149b34d\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml
+		INJECTED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml
+		INJECTED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:21:22-65
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:29:5-79
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:29:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:42:5-80
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:42:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:46:5-73
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:46:22-70
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:47:5-89
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:47:22-86
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:52:5-71
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:52:22-68
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:53:5-74
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:53:22-71
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:56:5-68
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:56:22-65
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:58:5-79
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:58:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:60:5-66
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:60:22-63
+uses-permission#android.permission.CAMERA
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:61:5-65
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:61:22-62
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:62:5-69
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:62:22-66
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:65:5-69
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:65:22-66
+uses-permission#android.permission.GET_TOP_ACTIVITY_INFO
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:68:5-80
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:68:22-77
+permission#ccj.yun28.com.permission.JPUSH_MESSAGE
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:71:5-73:47
+	android:protectionLevel
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:73:9-44
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:72:9-62
+uses-permission#ccj.yun28.com.permission.JPUSH_MESSAGE
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:75:5-78
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:75:22-75
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:76:5-79
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:76:22-76
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:84:5-84
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:84:22-81
+application
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:96:5-816:19
+MERGED from [pub.devrel:easypermissions:0.1.9] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\a9f2414d0b9b310636c79a852c12f9508d97f299\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\b9140e5cd5a8a96ebd6f9a28925f84944c274cdb\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\d03deb99be898a33f96bd47bd1bc7901a1c29c71\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\acdebd46f056d28b5642a531f77e214ec7ba0948\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\079eb1d24ca0b2775003e23a8d9b85f47566efbc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\c0e565d4ee576ddf2c0a05fbcce656a1101f3f46\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\a020378fb9af60177c7c6b2b254bf8d9fc4c06a4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\dffbc54c849a31001580a717776b2fc56c1cca9e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\0c0c471d439989b58d4f58788989d8d22149b34d\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:100:9-41
+	android:allowBackup
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:98:9-35
+	android:icon
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:99:9-38
+	android:theme
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:101:9-62
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:97:9-63
+meta-data#UMENG_APPKEY
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:104:9-106:66
+	android:value
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:106:13-53
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:105:13-40
+meta-data#UMENG_CHANNEL
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:107:9-109:35
+	android:value
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:109:13-32
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:108:13-41
+meta-data#com.amap.api.v2.apikey
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:111:9-113:49
+	android:value
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:113:13-46
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:112:13-50
+service#com.amap.api.location.APSService
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:115:9-76
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:115:18-65
+activity#ccj.yun28.com.WelcomeActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:118:9-128:20
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:122:13-49
+	android:label
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:120:13-45
+	android:launchMode
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:121:13-48
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:119:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:123:13-127:29
+action#android.intent.action.MAIN
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:124:17-69
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:124:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:126:17-77
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:126:27-74
+activity#com.mob.tools.MobUIShell
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:138:9-150:20
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:141:13-49
+	android:windowSoftInputMode
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:143:13-67
+	android:configChanges
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:140:13-74
+	android:theme
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:142:13-72
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:139:13-52
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:146:13-149:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:147:17-92
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:147:25-89
+category#android.intent.category.DEFAULT
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:148:17-76
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:148:27-73
+activity#ccj.yun28.com.wxapi.WXPayEntryActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:164:9-167:46
+	android:launchMode
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:167:13-43
+	android:exported
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:166:13-36
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:165:13-53
+activity#ccj.yun28.com.wxapi.WXEntryActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:169:9-172:46
+	android:launchMode
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:172:13-43
+	android:exported
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:171:13-36
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:170:13-50
+activity#ccj.yun28.com.LoginActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:174:9-178:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:178:13-49
+	android:label
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:176:13-45
+	android:launchMode
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:177:13-48
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:175:13-42
+activity#ccj.yun28.com.GuideActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:180:9-182:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:182:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:181:13-42
+activity#ccj.yun28.com.MainActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:184:9-186:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:186:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:185:13-41
+activity#ccj.yun28.com.MainActivity1
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:187:9-189:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:189:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:188:13-42
+activity#ccj.yun28.com.ZhuCeActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:191:9-193:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:193:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:192:13-42
+activity#ccj.yun28.com.ForgetMMActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:195:9-197:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:197:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:196:13-45
+activity#ccj.yun28.com.PhoneYZActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:199:9-201:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:201:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:200:13-44
+activity#ccj.yun28.com.SetMMActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:203:9-205:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:205:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:204:13-42
+activity#ccj.yun28.com.RZPhoneActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:207:9-209:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:209:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:208:13-44
+activity#ccj.yun28.com.FindPasswordActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:211:9-213:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:213:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:212:13-49
+activity#ccj.yun28.com.MMRegistActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:215:9-217:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:217:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:216:13-45
+activity#ccj.yun28.com.sy.SearchActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:219:9-221:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:221:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:220:13-46
+activity#ccj.yun28.com.view.WebviewActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:223:9-225:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:225:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:224:13-49
+activity#ccj.yun28.com.sy.SaoYiSaoActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:227:9-229:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:229:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:228:13-48
+activity#ccj.yun28.com.sy.FenleiActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:231:9-233:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:233:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:232:13-46
+activity#ccj.yun28.com.sy.MessageActivcity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:235:9-237:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:237:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:236:13-48
+activity#ccj.yun28.com.sy.WuLiuActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:239:9-241:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:241:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:240:13-45
+activity#ccj.yun28.com.sy.TongZhiActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:243:9-245:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:245:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:244:13-47
+activity#ccj.yun28.com.sy.HuodongActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:247:9-249:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:249:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:248:13-47
+activity#ccj.yun28.com.sy.MessageEveryDetailActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:251:9-253:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:253:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:252:13-58
+activity#ccj.yun28.com.sy.ProductDetailActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:255:9-257:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:257:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:256:13-53
+activity#ccj.yun28.com.sy.YqzcActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:259:9-261:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:261:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:260:13-44
+activity#ccj.yun28.com.sy.SearchProductResultActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:263:9-265:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:265:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:264:13-59
+activity#ccj.yun28.com.sy.SearchShopResultActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:267:9-269:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:269:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:268:13-56
+activity#ccj.yun28.com.sy.SearchCCQResultActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:271:9-273:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:273:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:272:13-55
+activity#ccj.yun28.com.sy.SearchCCQProResultActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:274:9-276:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:276:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:275:13-58
+activity#ccj.yun28.com.ccq.AllCcqJuanActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:278:9-280:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:280:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:279:13-51
+activity#ccj.yun28.com.ccq.AllCcqShopActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:282:9-284:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:284:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:283:13-51
+activity#ccj.yun28.com.ccq.NewHuiyuanGetVipActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:286:9-288:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:288:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:287:13-57
+activity#ccj.yun28.com.ccq.ChaoZhiQuanActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:290:9-292:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:292:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:291:13-52
+activity#ccj.yun28.com.ccq.NewChaoJiQuanActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:294:9-296:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:296:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:295:13-54
+activity#ccj.yun28.com.ccq.BaWangCanActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:299:9-301:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:301:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:300:13-50
+activity#ccj.yun28.com.ccq.NewBaWangCanActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:302:9-304:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:304:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:303:13-53
+activity#ccj.yun28.com.ccq.AllPinjiaActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:306:9-308:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:308:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:307:13-50
+activity#ccj.yun28.com.ccq.CCQStoreDetailActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:310:9-312:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:312:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:311:13-55
+activity#ccj.yun28.com.ccq.storeHuanjingPicActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:314:9-316:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:316:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:315:13-57
+activity#ccj.yun28.com.mine.ZhifuSuccessActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:318:9-320:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:320:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:319:13-54
+activity#ccj.yun28.com.ccq.ChooseCityActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:322:9-324:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:324:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:323:13-51
+activity#ccj.yun28.com.ccq.CcqProDetailActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:326:9-328:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:328:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:327:13-53
+activity#ccj.yun28.com.ccq.NewCcqProDetailActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:330:9-332:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:332:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:331:13-56
+activity#ccj.yun28.com.sy.BuyZKJActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:334:9-336:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:336:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:335:13-46
+activity#ccj.yun28.com.ccq.CcqShouYinTaiActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:338:9-340:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:340:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:339:13-54
+activity#ccj.yun28.com.ccq.CcqTagDetailActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:342:9-344:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:344:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:343:13-53
+activity#ccj.yun28.com.ccq.XfmdAcyiviy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:346:9-348:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:348:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:347:13-44
+activity#ccj.yun28.com.ccq.XfmdShouYinTaiActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:350:9-352:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:352:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:351:13-55
+activity#ccj.yun28.com.gwc.TianxieDindanActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:354:9-356:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:356:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:355:13-54
+activity#ccj.yun28.com.gwc.GwcShouYinTaiActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:358:9-360:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:360:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:359:13-54
+activity#ccj.yun28.com.gwc.FaPiaoInfoActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:362:9-364:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:364:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:363:13-51
+activity#ccj.yun28.com.mine.MyAddressActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:366:9-368:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:368:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:367:13-51
+activity#ccj.yun28.com.mine.AddAdressActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:370:9-372:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:372:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:371:13-51
+activity#ccj.yun28.com.mine.AllDinDanActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:374:9-376:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:376:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:375:13-51
+activity#ccj.yun28.com.neworder.MyOrderFrament
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:377:9-379:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:379:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:378:13-52
+activity#ccj.yun28.com.mine.Mine_Dindan_TianxieDindanActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:381:9-383:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:383:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:382:13-67
+activity#ccj.yun28.com.mine.Mine_DinDan_BuyZKJActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:385:9-387:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:387:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:386:13-60
+activity#ccj.yun28.com.mine.ChaKanWuLiuActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:389:9-391:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:391:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:390:13-53
+activity#ccj.yun28.com.mine.ChaKanJuanMaActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:393:9-395:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:395:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:394:13-54
+activity#ccj.yun28.com.mine.QuPingJiaActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:397:9-399:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:399:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:398:13-51
+activity#ccj.yun28.com.mine.XSQuPingJiaActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:401:9-403:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:403:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:402:13-53
+activity#ccj.yun28.com.mine.ProDetailXSQuPingJiaActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:405:9-407:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:407:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:406:13-62
+activity#ccj.yun28.com.mine.XiaofeiMaidanDetailActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:409:9-411:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:411:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:410:13-61
+activity#ccj.yun28.com.mine.TuiKuanDinDanDetailActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:413:9-415:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:415:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:414:13-61
+activity#ccj.yun28.com.mine.SettingActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:417:9-419:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:419:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:418:13-49
+activity#ccj.yun28.com.mine.NewSettingActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:420:9-422:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:422:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:421:13-52
+activity#ccj.yun28.com.mine.ZhangHuGuanLianActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:424:9-426:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:426:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:425:13-57
+activity#ccj.yun28.com.mine.SettingInfoActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:428:9-430:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:430:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:429:13-53
+activity#ccj.yun28.com.mine.NewSettingInfoActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:431:9-433:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:433:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:432:13-56
+activity#ccj.yun28.com.mine.TouXiangActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:435:9-437:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:437:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:436:13-50
+activity#ccj.yun28.com.mine.NichengActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:439:9-441:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:441:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:440:13-49
+activity#ccj.yun28.com.mine.AboutWeActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:443:9-445:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:445:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:444:13-49
+activity#ccj.yun28.com.mine.ChooseShengShiQuActicity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:447:9-449:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:449:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:448:13-58
+activity#ccj.yun28.com.mine.ZhangHuAndSafeActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:451:9-453:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:453:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:452:13-56
+activity#ccj.yun28.com.mine.LoginMiMaActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:455:9-457:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:457:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:456:13-51
+activity#ccj.yun28.com.mine.SetLoginmimaActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:458:9-460:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:460:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:459:13-54
+activity#ccj.yun28.com.mine.ShezhiPayMiMaActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:462:9-464:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:464:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:463:13-55
+activity#ccj.yun28.com.mine.SetPaymimaActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:465:9-467:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:467:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:466:13-52
+activity#ccj.yun28.com.mine.XiuGaiPayMiMaActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:469:9-471:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:471:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:470:13-55
+activity#ccj.yun28.com.mine.WangJiPayMiMaActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:473:9-475:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:475:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:474:13-55
+activity#ccj.yun28.com.mine.FindPayPasswordActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:477:9-479:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:479:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:478:13-57
+activity#ccj.yun28.com.mine.XiuGaiZhiFuMiMaActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:481:9-483:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:483:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:482:13-57
+activity#ccj.yun28.com.mine.ShiMingRenZhengActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:485:9-487:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:487:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:486:13-57
+activity#ccj.yun28.com.mine.WeiShiMingRenZhengActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:489:9-491:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:491:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:490:13-60
+activity#ccj.yun28.com.mine.NewWeiShiMingRenZhengActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:492:9-494:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:494:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:493:13-63
+activity#ccj.yun28.com.mine.NewWeiShiMingRenZhengNextActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:495:9-497:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:497:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:496:13-67
+activity#ccj.yun28.com.mine.PhoneRenZhengActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:499:9-501:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:501:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:500:13-55
+activity#ccj.yun28.com.NewBindPhoneActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:503:9-505:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:505:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:504:13-49
+activity#ccj.yun28.com.PayBindPhoneActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:507:9-509:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:509:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:508:13-49
+activity#ccj.yun28.com.mine.VIPhuiyuanActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:511:9-513:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:513:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:512:13-52
+activity#ccj.yun28.com.mine.BuyVIPShouYinTaiActivtity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:515:9-517:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:517:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:516:13-59
+activity#ccj.yun28.com.mine.YunBiDuiHuanVIPActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:519:9-521:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:521:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:520:13-57
+activity#ccj.yun28.com.mine.YunBiShouYingTaiActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:523:9-525:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:525:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:524:13-58
+activity#ccj.yun28.com.mine.MyWalletActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:527:9-529:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:529:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:528:13-50
+activity#ccj.yun28.com.mine.NewMyWalletActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:530:9-532:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:532:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:531:13-53
+activity#ccj.yun28.com.mine.YunBiORYuEDetailActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:534:9-536:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:536:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:535:13-58
+activity#ccj.yun28.com.mine.NewYunBiORYuEDetailActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:537:9-539:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:539:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:538:13-61
+activity#ccj.yun28.com.mine.YongjinDetailActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:541:9-543:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:543:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:542:13-55
+activity#ccj.yun28.com.mine.BankCardActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:545:9-547:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:547:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:546:13-50
+activity#ccj.yun28.com.mine.AddBankCardActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:549:9-551:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:551:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:550:13-53
+activity#ccj.yun28.com.mine.NewAddBankCardActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:552:9-554:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:554:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:553:13-56
+activity#ccj.yun28.com.mine.AddBankPicActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:556:9-558:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:558:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:557:13-52
+activity#ccj.yun28.com.mine.TiXianActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:560:9-562:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:562:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:561:13-48
+activity#ccj.yun28.com.mine.BankCardListActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:564:9-566:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:566:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:565:13-54
+activity#ccj.yun28.com.mine.TiXianRecordActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:568:9-570:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:570:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:569:13-54
+activity#ccj.yun28.com.mine.TiXianTecordDetailActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:572:9-574:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:574:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:573:13-60
+activity#ccj.yun28.com.mine.ProblemActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:576:9-578:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:578:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:577:13-49
+activity#ccj.yun28.com.mine.YiJianFanKuiActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:580:9-582:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:582:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:581:13-54
+activity#ccj.yun28.com.mine.OpenStoreActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:584:9-586:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:586:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:585:13-51
+activity#ccj.yun28.com.mine.DFKDinDanActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:588:9-590:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:590:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:589:13-51
+activity#ccj.yun28.com.mine.DSHDinDanActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:592:9-594:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:594:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:593:13-51
+activity#ccj.yun28.com.mine.DSYDinDanActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:596:9-598:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:598:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:597:13-51
+activity#ccj.yun28.com.mine.DPJDinDanActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:600:9-602:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:602:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:601:13-51
+activity#ccj.yun28.com.mine.TKSHDinDanActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:604:9-606:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:606:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:605:13-52
+activity#ccj.yun28.com.mine.CCQDinDanDetailActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:608:9-610:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:610:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:609:13-57
+activity#ccj.yun28.com.mine.TuikuanTuihuoActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:612:9-614:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:614:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:613:13-55
+activity#ccj.yun28.com.mine.AddBankCardWRZActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:616:9-618:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:618:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:617:13-56
+activity#ccj.yun28.com.mine.NewOpenStoreActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:620:9-622:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:622:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:621:13-54
+activity#ccj.yun28.com.mine.SuoShuHangYeActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:624:9-626:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:626:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:625:13-54
+activity#ccj.yun28.com.BindPhoneActivtiy
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:632:9-634:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:634:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:633:13-46
+activity#ccj.yun28.com.YuanPhone_yzm_nextActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:636:9-638:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:638:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:637:13-55
+activity#ccj.yun28.com.YuanPhone_yzmActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:639:9-641:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:641:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:640:13-50
+activity#ccj.yun28.com.ShuRuNewPhone_yzmActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:642:9-644:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:644:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:643:13-54
+activity#com.amap.location.demo.Alarm_Location_Activity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:646:9-648:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:648:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:647:13-74
+activity#com.amap.location.demo.Assistant_Location_Activity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:649:9-651:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:651:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:650:13-78
+activity#com.amap.location.demo.CheckPermissionsActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:652:9-654:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:654:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:653:13-75
+activity#com.amap.location.demo.ErrorCode_Activity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:655:9-657:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:657:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:656:13-69
+activity#com.amap.location.demo.GeoFence_Activity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:658:9-660:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:660:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:659:13-68
+activity#com.amap.location.demo.LastLocation_Activity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:661:9-663:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:663:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:662:13-72
+activity#com.amap.location.demo.Location_Activity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:664:9-666:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:666:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:665:13-68
+activity#com.amap.location.demo.StartActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:667:9-669:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:669:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:668:13-64
+activity#com.amap.location.demo.Tools_Activity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:670:9-672:52
+	android:screenOrientation
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:672:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:671:13-65
+activity#com.amap.location.navi.GPSNaviActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:678:9-682:78
+	android:label
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:681:13-45
+	android:configChanges
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:680:13-74
+	android:theme
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:682:13-66
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:679:13-66
+activity#com.example.jpushdemo.PushSetActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:685:9-687:57
+	android:label
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:687:13-45
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:686:13-65
+activity#com.example.jpushdemo.SettingActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:689:9-691:57
+	android:label
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:691:13-45
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:690:13-65
+activity#com.example.jpushdemo.TestActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:693:9-701:20
+	android:exported
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:695:13-37
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:694:13-62
+intent-filter#jpush.testAction+jpush.testCategory
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:696:13-700:29
+action#jpush.testAction
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:697:17-59
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:697:25-56
+category#jpush.testCategory
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:699:17-63
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:699:27-60
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:704:9-707:61
+	android:exported
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:706:13-37
+	android:theme
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:707:13-49
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:705:13-62
+activity#cn.jpush.android.ui.PushActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:710:9-721:20
+	android:exported
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:713:13-37
+	android:configChanges
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:712:13-63
+	android:theme
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:714:13-60
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:711:13-60
+intent-filter#android.intent.category.DEFAULT+ccj.yun28.com+cn.jpush.android.ui.PushActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:715:13-720:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:716:17-75
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:716:25-72
+category#ccj.yun28.com
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:719:17-58
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:719:27-55
+service#cn.jpush.android.service.DownloadService
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:723:9-726:48
+	android:enabled
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:725:13-35
+	android:exported
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:726:13-37
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:724:13-68
+service#cn.jpush.android.service.PushService
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:730:9-740:19
+	android:enabled
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:732:13-35
+	android:exported
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:733:13-37
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:731:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:734:13-739:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:735:17-75
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:735:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:736:17-73
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:736:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:737:17-78
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:737:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:738:17-76
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:738:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:744:9-753:19
+	android:enabled
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:746:13-35
+	android:exported
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:747:13-36
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:745:13-66
+intent-filter#ccj.yun28.com+cn.jpush.android.intent.DaemonService
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:748:13-752:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:749:17-80
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:749:25-77
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:756:9-776:20
+	android:enabled
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:758:13-35
+	android:exported
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:759:13-37
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:757:13-65
+intent-filter#ccj.yun28.com+cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:760:13-764:29
+	android:priority
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:760:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:761:17-94
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:761:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:765:13-768:29
+action#android.intent.action.USER_PRESENT
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:766:17-77
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:766:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:767:17-79
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:767:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:770:13-775:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:771:17-78
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:771:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:772:17-80
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:772:25-77
+data
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:774:17-50
+	android:scheme
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:774:23-47
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:779:9-781:40
+	android:exported
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:781:13-37
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:780:13-66
+receiver#com.example.jpushdemo.MyReceiver
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:784:9-803:20
+	android:enabled
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:786:13-35
+	android:exported
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:787:13-37
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:785:13-60
+intent-filter#ccj.yun28.com+cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK+cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:788:13-802:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:789:17-79
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:789:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:791:17-83
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:791:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:793:17-88
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:793:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:795:17-86
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:795:25-83
+action#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:797:17-91
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:797:25-88
+action#cn.jpush.android.intent.CONNECTION
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:799:17-77
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:799:25-74
+meta-data#JPUSH_CHANNEL
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:806:9-808:49
+	android:value
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:808:13-46
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:807:13-41
+meta-data#JPUSH_APPKEY
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:809:9-811:56
+	android:value
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:811:13-53
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:810:13-40
+activity#ccj.yun28.com.RecmmendGoodsActivity
+ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:813:9-815:78
+	android:label
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:815:13-66
+	android:name
+		ADDED from D:\28yun\androiduser\NewCCQuser\src\main\AndroidManifest.xml:814:13-50
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\acdebd46f056d28b5642a531f77e214ec7ba0948\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\079eb1d24ca0b2775003e23a8d9b85f47566efbc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\c0e565d4ee576ddf2c0a05fbcce656a1101f3f46\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\a020378fb9af60177c7c6b2b254bf8d9fc4c06a4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\dffbc54c849a31001580a717776b2fc56c1cca9e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\0c0c471d439989b58d4f58788989d8d22149b34d\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\acdebd46f056d28b5642a531f77e214ec7ba0948\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] D:\Eclipse\adt-bundle-windows-x86_64-20140702\sdk\.android\build-cache\acdebd46f056d28b5642a531f77e214ec7ba0948\output\AndroidManifest.xml:26:9-47

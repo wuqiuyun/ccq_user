@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="@color/color_red"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:background="@color/color_text_black"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/line_search"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:background="@drawable/sousk"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+		        android:focusable="true"  
+		   		android:focusableInTouchMode="true" >
+
+                <TextView
+                    android:id="@+id/tv_choose"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableRight="@drawable/shape"
+                    android:paddingLeft="10dp"
+                    android:text="宝贝  "
+                    android:textColor="@color/color_white"
+                    android:textSize="16sp" />
+
+                <EditText
+                    android:id="@+id/et_search"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:imeOptions="actionSearch"
+                    android:singleLine="true"
+                    android:textColor="@color/color_white"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_cancel "
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_margin="8dp"
+                android:text="取消"
+                android:textColor="@color/color_white"
+                android:textSize="16sp"
+                android:gravity="center_vertical" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ccj.yun28.com.view.MyScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="12dp"
+                android:text="热门搜索"
+                android:textColor="@color/color_text_black"
+                android:textSize="16sp" />
+
+            <ccj.yun28.com.view.MyGridView
+                android:id="@+id/gv"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:horizontalSpacing="5dip"
+                android:listSelector="@color/transparent"
+                android:numColumns="4"
+                android:scrollbars="none"
+                android:stretchMode="columnWidth"
+                android:verticalSpacing="5dip" />
+
+            <LinearLayout
+                android:id="@+id/line_history_record"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="15dp"
+                    android:text="历史搜索"
+                    android:textColor="@color/color_text_black"
+                    android:textSize="16sp" />
+
+                <ccj.yun28.com.view.MyListView
+                    android:id="@+id/lv_search_record"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/color_white"
+                    android:cacheColorHint="@android:color/transparent"
+                    android:divider="@color/color_line_grey"
+                    android:dividerHeight="1dp"
+                    android:listSelector="@color/transparent" />
+            </LinearLayout>
+        </LinearLayout>
+    </ccj.yun28.com.view.MyScrollView>
+
+</LinearLayout>

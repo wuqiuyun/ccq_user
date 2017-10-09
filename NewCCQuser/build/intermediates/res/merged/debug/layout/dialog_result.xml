@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_text"
+        android:layout_width="280dip"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dip"
+        android:background="@color/color_white"
+        android:padding="20dip"
+        android:textColor="@color/color_text_black"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/iv_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/start" />
+
+    <LinearLayout
+        android:id="@+id/line_faile"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_newphone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dip"
+            android:background="@drawable/sjvip"
+            android:gravity="center"
+            android:padding="8dp"
+            android:text="关联其他手机号码"
+            android:textColor="@color/color_text_black"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_newzanghao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/sjvip"
+            android:gravity="center"
+            android:padding="8dp"
+            android:text="关联到当前账号"
+            android:textColor="@color/color_text_black"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="20dp" >
+
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_margin="20dp"
+    	android:layout_marginBottom="40dp">
+    <TextView
+        android:id="@+id/tv_xc"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+		android:drawableTop="@drawable/xcc"
+		android:drawablePadding="8dp"
+        android:text="相册"
+        android:textSize="16sp"
+        android:textColor="@color/color_white"
+        android:gravity="center" />
+    
+    <TextView
+        android:id="@+id/tv_kd"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+		android:drawableTop="@drawable/kdd"
+		android:drawablePadding="8dp"
+        android:text="开灯"
+        android:textSize="16sp"
+        android:textColor="@color/color_white"
+        android:gravity="center" />
+    
+    <TextView
+        android:id="@+id/tv_ewm"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+		android:drawableTop="@drawable/ewm"
+		android:drawablePadding="8dp"
+        android:text="我的二维码"
+        android:textSize="16sp"
+        android:textColor="@color/color_white"
+        android:gravity="center" />
+   </LinearLayout>
+
+</RelativeLayout>

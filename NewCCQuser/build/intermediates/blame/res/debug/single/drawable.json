@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_mainbotton_neiberhood_black.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_mainbotton_neiberhood_black.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
+        "source": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_grey.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\rectangle_grey.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_mywattel.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_mywattel.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_mainbotton_sy.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_mainbotton_sy.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\zylm.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\zylm.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_mainbotton_gwc.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_mainbotton_gwc.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_mainbotton_order_black.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_mainbotton_order_black.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\gwc_check_box_bg.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\gwc_check_box_bg.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_mainbotton_ccq.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_mainbotton_ccq.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_star.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_star.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\gwc_text_angle_gray.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\gwc_text_angle_gray.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector__shouye_btn_bg.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector__shouye_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_drawable_fujin_yellow.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_drawable_fujin_yellow.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_fapiao.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_fapiao.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\product_botton_bg.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\product_botton_bg.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_drawable_ccqline_yellow.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_drawable_ccqline_yellow.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\zylmxz.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\zylmxz.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_storedetail_bg.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_storedetail_bg.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\gwc_text_angle_right.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\gwc_text_angle_right.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_states.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\progress_bar_states.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_mainbotton_me.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_mainbotton_me.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_check_zhuce.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_check_zhuce.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\updata_loading.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\updata_loading.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_pay_reslut_text_change_bg.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\dialog_pay_reslut_text_change_bg.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_pay_result_bg.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\dialog_pay_result_bg.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_pay_result_text_bg.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\dialog_pay_result_text_bg.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_mainbotton_me_black.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_mainbotton_me_black.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_mainbotton_ccq_black.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_mainbotton_ccq_black.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_ccq_choose.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_ccq_choose.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_drawable_ccqline.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\drawable\\selector_drawable_ccqline.xml"
+    }
+]

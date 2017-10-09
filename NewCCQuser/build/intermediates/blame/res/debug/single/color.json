@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\color\\selector_ccqsy_text.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\color\\selector_ccqsy_text.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\color\\selector_ccq_fanlei_text.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\color\\selector_ccq_fanlei_text.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\color\\selector_ccq_text_yellow.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\color\\selector_ccq_text_yellow.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\color\\selector_alldindan_text.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\color\\selector_alldindan_text.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\color\\selector_mainbotton_text.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\color\\selector_mainbotton_text.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\color\\selector_storedetail_text.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\color\\selector_storedetail_text.xml"
+    }
+]

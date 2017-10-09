@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!--
+    <item android:id="@android:id/background">  
+        <shape>  
+            <gradient  
+                    android:startColor="#ff0000"  
+                    android:centerColor="#ffa600"  
+                    android:endColor="#ff5500"  
+                      
+            />  
+        </shape>  
+    </item>  
+  
+    <item android:id="@android:id/secondaryProgress">  
+        <clip>  
+            <shape>  
+                <gradient  
+                        android:startColor="#234"  
+                        android:centerColor="#234"  
+                        android:endColor="#a24"  
+                />  
+            </shape>  
+        </clip>  
+    </item>  
+  
+    <item android:id="@android:id/progress">  
+        <clip>  
+            <shape>  
+                <gradient  
+                    android:startColor="#33000001"  
+                    android:centerColor="#40000000"  
+                    android:endColor="#44000000"  
+                />  
+            </shape>  
+        </clip>  
+    </item>
+    -->
+    <!-- 仿微信 -->
+    <item android:id="@android:id/background">
+        <shape>
+            <gradient
+                android:angle="270"
+                android:centerColor="#e3e3e3"
+                android:endColor="#e6e6e6"
+                android:startColor="#c8c8c8" >
+            </gradient>
+
+            <corners android:radius="2dp" >
+            </corners>
+        </shape>
+    </item>
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <gradient
+                    android:centerColor="#31ce15"
+                    android:endColor="#5fec46"
+                    android:startColor="#4aea2f" />
+
+                <corners android:radius="2dp" >
+                </corners>
+            </shape>
+        </clip>
+    </item>
+
+</layer-list>

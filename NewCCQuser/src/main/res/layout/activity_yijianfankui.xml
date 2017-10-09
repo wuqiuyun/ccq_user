@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:background="@color/color_red" >
+
+        <LinearLayout
+            android:id="@+id/line_back"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:layout_marginRight="10dip"
+                android:background="@drawable/wleft" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="意见反馈"
+            android:textColor="@color/color_white"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:id="@+id/line_tijiao"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginRight="12dip"
+                android:text="提交"
+                android:textColor="@color/color_white"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="40dip"
+        android:layout_marginTop="5dip"
+        android:background="@color/color_white"
+        android:gravity="center_vertical"
+        android:paddingLeft="12dip"
+        android:text="反馈类型"
+        android:textColor="@color/color_text_black"
+        android:textSize="16sp" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.5dip"
+        android:background="@color/color_line_grey" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_white"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/radio_canzuo"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dip"
+            android:layout_marginLeft="12dip"
+            android:layout_weight="1"
+            android:background="@color/transparent"
+            android:button="@null"
+            android:drawableLeft="@drawable/selector_fapiao"
+            android:gravity="center_horizontal"
+            android:singleLine="true"
+            android:text="操作吐槽"
+            android:textColor="@color/color_text_grey"
+            android:textSize="13sp" />
+
+        <RadioButton
+            android:id="@+id/radio_gongneng"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dip"
+            android:layout_weight="1"
+            android:background="@color/transparent"
+            android:button="@null"
+            android:drawableLeft="@drawable/selector_fapiao"
+            android:gravity="center_horizontal"
+            android:singleLine="true"
+            android:text="功能吐槽"
+            android:textColor="@color/color_text_grey"
+            android:textSize="13sp" />
+
+        <RadioButton
+            android:id="@+id/radio_yemiantucao"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dip"
+            android:layout_marginRight="12dip"
+            android:layout_weight="1"
+            android:background="@color/transparent"
+            android:button="@null"
+            android:drawableLeft="@drawable/selector_fapiao"
+            android:gravity="center_horizontal"
+            android:singleLine="true"
+            android:text="页面吐槽"
+            android:textColor="@color/color_text_grey"
+            android:textSize="13sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_white"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/radio_yemianxuqiu"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dip"
+            android:layout_marginLeft="12dip"
+            android:layout_marginBottom="12dip"
+            android:layout_weight="1"
+            android:background="@color/transparent"
+            android:button="@null"
+            android:drawableLeft="@drawable/selector_fapiao"
+            android:gravity="center_horizontal"
+            android:singleLine="true"
+            android:text="页面需求"
+            android:textColor="@color/color_text_grey"
+            android:textSize="13sp" />
+
+        <RadioButton
+            android:id="@+id/radio_qita"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dip"
+            android:layout_marginBottom="12dip"
+            android:layout_weight="1"
+            android:background="@color/transparent"
+            android:button="@null"
+            android:drawableLeft="@drawable/selector_fapiao"
+            android:gravity="center_horizontal"
+            android:singleLine="true"
+            android:text="其他"
+            android:textColor="@color/color_text_grey"
+            android:textSize="13sp" />
+
+        <RadioButton
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dip"
+            android:layout_marginRight="12dip"
+            android:layout_marginBottom="12dip"
+            android:layout_weight="1"
+            android:background="@color/transparent"
+            android:button="@null"
+            android:gravity="center_horizontal"
+            android:singleLine="true"
+            android:textColor="@color/color_text_grey"
+            android:textSize="13sp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.5dip"
+        android:layout_marginTop="8dip"
+        android:background="@color/color_line_grey" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_white"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dip"
+            android:layout_marginTop="12dip"
+            android:text="反馈内容"
+            android:textColor="@color/color_text_black"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            android:background="@drawable/kkk"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/et_fankui"
+                android:layout_width="fill_parent"
+                android:layout_height="80dp"
+                android:background="@null"
+                android:hint="请输入您对客户端的意见，我们将不断优化体验"
+                android:maxLength="101"
+                android:padding="8dp"
+                android:textColor="@color/color_text_grey"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tv_zishu"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginRight="12dp"
+                android:gravity="right"
+                android:text="0/100"
+                android:textColor="@color/color_text_grey" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.2dp"
+            android:background="@color/color_line_grey" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.5dip"
+        android:layout_marginTop="6dp"
+        android:background="@color/color_line_grey" />
+
+    <EditText
+        android:id="@+id/et_phone"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="@color/color_white"
+        android:hint="请输入您的手机号（选填）"
+        android:inputType="phone"
+        android:maxLength="11"
+        android:padding="8dp"
+        android:textColor="@color/color_text_grey"
+        android:textSize="14sp" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.5dip"
+        android:background="@color/color_line_grey" />
+
+</LinearLayout>

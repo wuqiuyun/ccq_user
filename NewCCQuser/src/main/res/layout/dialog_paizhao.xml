@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="bottom" >
+    <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+    
+        <LinearLayout 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+			android:layout_alignParentBottom="true"            
+            android:orientation="vertical">
+    <TextView 
+        android:id="@+id/tv_paizhao"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_white"
+        android:textColor="@color/color_text_call_blue"
+        android:text="拍照"
+        android:textSize="16sp"
+        android:padding="10dp"
+        android:gravity="center"/>
+    <View 
+        android:layout_width="fill_parent"
+        android:layout_height="0.2dp"
+        android:background="@color/color_line_grey"/>
+    <TextView 
+        android:id="@+id/tv_xiangce"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_white"
+        android:textColor="@color/color_text_call_blue"
+        android:text="相册"
+        android:textSize="16sp"
+        android:padding="10dp"
+        android:gravity="center"/>
+    <TextView 
+        android:id="@+id/tv_dialog_cancel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_white"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:text="取消"
+        android:textColor="@color/color_text_call_blue"
+        android:textSize="16sp"
+        android:padding="10dp"
+        android:gravity="center"/>
+    </LinearLayout>
+</RelativeLayout>
+</LinearLayout>

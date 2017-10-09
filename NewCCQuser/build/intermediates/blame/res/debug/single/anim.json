@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\anim\\progress_rotate.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\anim\\progress_rotate.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\anim\\loading_anim.xml",
+        "source": "D:\\28yun\\androiduser\\NewCCQuser\\src\\main\\res\\anim\\loading_anim.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\anim\\abc_fade_out.xml"
+    }
+]

@@ -1,0 +1,1818 @@
+[
+    {
+        "outputFile": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 55,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 81,
+                    "endOffset": 246
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 81,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 251,
+                    "endColumn": 81,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endColumn": 81,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 52,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 52,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endColumn": 48,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 48,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 52,
+                    "endOffset": 483
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 52,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 488,
+                    "endColumn": 45,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 45,
+                        "endOffset": 529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 534,
+                    "endColumn": 86,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 534,
+                        "endColumn": 86,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 621,
+                    "endColumn": 53,
+                    "endOffset": 670
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 53,
+                        "endOffset": 670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 675,
+                    "endColumn": 45,
+                    "endOffset": 716
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 675,
+                        "endColumn": 45,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 721,
+                    "endColumn": 42,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endColumn": 42,
+                        "endOffset": 759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 48,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 764,
+                        "endColumn": 48,
+                        "endOffset": 808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 41,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 813,
+                        "endColumn": 41,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endColumn": 46,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 46,
+                        "endOffset": 897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 50,
+                    "endOffset": 948
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 902,
+                        "endColumn": 50,
+                        "endOffset": 948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 953,
+                    "endColumn": 69,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 953,
+                        "endColumn": 69,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endColumn": 108,
+                    "endOffset": 1127
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endColumn": 108,
+                        "endOffset": 1127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1132,
+                    "endColumn": 46,
+                    "endOffset": 1174
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1132,
+                        "endColumn": 46,
+                        "endOffset": 1174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1179,
+                    "endColumn": 54,
+                    "endOffset": 1229
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1179,
+                        "endColumn": 54,
+                        "endOffset": 1229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1234,
+                    "endColumn": 102,
+                    "endOffset": 1332
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1234,
+                        "endColumn": 102,
+                        "endOffset": 1332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1337,
+                    "endColumn": 51,
+                    "endOffset": 1384
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1337,
+                        "endColumn": 51,
+                        "endOffset": 1384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1389,
+                    "endColumn": 52,
+                    "endOffset": 1437
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1389,
+                        "endColumn": 52,
+                        "endOffset": 1437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1442,
+                    "endColumn": 103,
+                    "endOffset": 1541
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1442,
+                        "endColumn": 103,
+                        "endOffset": 1541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1546,
+                    "endColumn": 83,
+                    "endOffset": 1625
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1546,
+                        "endColumn": 83,
+                        "endOffset": 1625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1630,
+                    "endLine": 92,
+                    "endColumn": 9,
+                    "endOffset": 3510
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1630,
+                        "endLine": 92,
+                        "endColumn": 9,
+                        "endOffset": 3510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 3515,
+                    "endColumn": 54,
+                    "endOffset": 3565
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 3515,
+                        "endColumn": 54,
+                        "endOffset": 3565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 3570,
+                    "endColumn": 52,
+                    "endOffset": 3618
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 3570,
+                        "endColumn": 52,
+                        "endOffset": 3618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 3623,
+                    "endColumn": 52,
+                    "endOffset": 3671
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 3623,
+                        "endColumn": 52,
+                        "endOffset": 3671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 3676,
+                    "endColumn": 57,
+                    "endOffset": 3729
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 3676,
+                        "endColumn": 57,
+                        "endOffset": 3729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 3734,
+                    "endColumn": 50,
+                    "endOffset": 3780
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 3734,
+                        "endColumn": 50,
+                        "endOffset": 3780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 3785,
+                    "endColumn": 43,
+                    "endOffset": 3824
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 3785,
+                        "endColumn": 43,
+                        "endOffset": 3824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 3829,
+                    "endColumn": 54,
+                    "endOffset": 3879
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 3829,
+                        "endColumn": 54,
+                        "endOffset": 3879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 3884,
+                    "endColumn": 104,
+                    "endOffset": 3984
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 3884,
+                        "endColumn": 104,
+                        "endOffset": 3984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3989,
+                    "endColumn": 52,
+                    "endOffset": 4037
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 3989,
+                        "endColumn": 52,
+                        "endOffset": 4037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 4042,
+                    "endColumn": 101,
+                    "endOffset": 4139
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 4042,
+                        "endColumn": 101,
+                        "endOffset": 4139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 4144,
+                    "endColumn": 43,
+                    "endOffset": 4183
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 4144,
+                        "endColumn": 43,
+                        "endOffset": 4183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4188,
+                    "endColumn": 85,
+                    "endOffset": 4269
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 4188,
+                        "endColumn": 85,
+                        "endOffset": 4269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4274,
+                    "endColumn": 52,
+                    "endOffset": 4322
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 4274,
+                        "endColumn": 52,
+                        "endOffset": 4322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4327,
+                    "endColumn": 42,
+                    "endOffset": 4365
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 4327,
+                        "endColumn": 42,
+                        "endOffset": 4365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4370,
+                    "endColumn": 86,
+                    "endOffset": 4452
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 4370,
+                        "endColumn": 86,
+                        "endOffset": 4452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4457,
+                    "endColumn": 44,
+                    "endOffset": 4497
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 4457,
+                        "endColumn": 44,
+                        "endOffset": 4497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4502,
+                    "endColumn": 43,
+                    "endOffset": 4541
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 4502,
+                        "endColumn": 43,
+                        "endOffset": 4541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4546,
+                    "endColumn": 59,
+                    "endOffset": 4601
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 4546,
+                        "endColumn": 59,
+                        "endOffset": 4601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4606,
+                    "endColumn": 54,
+                    "endOffset": 4656
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 4606,
+                        "endColumn": 54,
+                        "endOffset": 4656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4661,
+                    "endColumn": 46,
+                    "endOffset": 4703
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 4661,
+                        "endColumn": 46,
+                        "endOffset": 4703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4708,
+                    "endColumn": 47,
+                    "endOffset": 4751
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 4708,
+                        "endColumn": 47,
+                        "endOffset": 4751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 4756,
+                    "endColumn": 49,
+                    "endOffset": 4801
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 4756,
+                        "endColumn": 49,
+                        "endOffset": 4801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 4806,
+                    "endColumn": 53,
+                    "endOffset": 4855
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 4806,
+                        "endColumn": 53,
+                        "endOffset": 4855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 4860,
+                    "endColumn": 57,
+                    "endOffset": 4913
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 4860,
+                        "endColumn": 57,
+                        "endOffset": 4913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 4918,
+                    "endColumn": 52,
+                    "endOffset": 4966
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 4918,
+                        "endColumn": 52,
+                        "endOffset": 4966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 4971,
+                    "endColumn": 60,
+                    "endOffset": 5027
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 4971,
+                        "endColumn": 60,
+                        "endOffset": 5027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 5032,
+                    "endColumn": 45,
+                    "endOffset": 5073
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 5032,
+                        "endColumn": 45,
+                        "endOffset": 5073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5078,
+                    "endColumn": 57,
+                    "endOffset": 5131
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 5078,
+                        "endColumn": 57,
+                        "endOffset": 5131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 5136,
+                    "endColumn": 57,
+                    "endOffset": 5189
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 5136,
+                        "endColumn": 57,
+                        "endOffset": 5189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5194,
+                    "endColumn": 54,
+                    "endOffset": 5244
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 5194,
+                        "endColumn": 54,
+                        "endOffset": 5244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5249,
+                    "endColumn": 56,
+                    "endOffset": 5301
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 5249,
+                        "endColumn": 56,
+                        "endOffset": 5301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5306,
+                    "endColumn": 52,
+                    "endOffset": 5354
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 5306,
+                        "endColumn": 52,
+                        "endOffset": 5354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5359,
+                    "endColumn": 103,
+                    "endOffset": 5458
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 5359,
+                        "endColumn": 103,
+                        "endOffset": 5458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5463,
+                    "endColumn": 44,
+                    "endOffset": 5503
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 5463,
+                        "endColumn": 44,
+                        "endOffset": 5503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5508,
+                    "endColumn": 46,
+                    "endOffset": 5550
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 5508,
+                        "endColumn": 46,
+                        "endOffset": 5550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5555,
+                    "endColumn": 38,
+                    "endOffset": 5589
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 5555,
+                        "endColumn": 38,
+                        "endOffset": 5589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 5594,
+                    "endColumn": 83,
+                    "endOffset": 5673
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 5594,
+                        "endColumn": 83,
+                        "endOffset": 5673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 5678,
+                    "endColumn": 43,
+                    "endOffset": 5717
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 5678,
+                        "endColumn": 43,
+                        "endOffset": 5717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 5722,
+                    "endColumn": 43,
+                    "endOffset": 5761
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 5722,
+                        "endColumn": 43,
+                        "endOffset": 5761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 5766,
+                    "endColumn": 62,
+                    "endOffset": 5824
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 5766,
+                        "endColumn": 62,
+                        "endOffset": 5824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5829,
+                    "endColumn": 63,
+                    "endOffset": 5888
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 5829,
+                        "endColumn": 63,
+                        "endOffset": 5888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 5893,
+                    "endColumn": 55,
+                    "endOffset": 5944
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 5893,
+                        "endColumn": 55,
+                        "endOffset": 5944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 5949,
+                    "endColumn": 50,
+                    "endOffset": 5995
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 5949,
+                        "endColumn": 50,
+                        "endOffset": 5995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 6000,
+                    "endColumn": 55,
+                    "endOffset": 6051
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 6000,
+                        "endColumn": 55,
+                        "endOffset": 6051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6056,
+                    "endColumn": 63,
+                    "endOffset": 6115
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 6056,
+                        "endColumn": 63,
+                        "endOffset": 6115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 6120,
+                    "endColumn": 48,
+                    "endOffset": 6164
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 6120,
+                        "endColumn": 48,
+                        "endOffset": 6164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6169,
+                    "endColumn": 47,
+                    "endOffset": 6212
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 6169,
+                        "endColumn": 47,
+                        "endOffset": 6212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 6217,
+                    "endColumn": 51,
+                    "endOffset": 6264
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 6217,
+                        "endColumn": 51,
+                        "endOffset": 6264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6269,
+                    "endColumn": 53,
+                    "endOffset": 6318
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 6269,
+                        "endColumn": 53,
+                        "endOffset": 6318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 6323,
+                    "endColumn": 50,
+                    "endOffset": 6369
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 6323,
+                        "endColumn": 50,
+                        "endOffset": 6369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 6374,
+                    "endColumn": 46,
+                    "endOffset": 6416
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 6374,
+                        "endColumn": 46,
+                        "endOffset": 6416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6421,
+                    "endColumn": 48,
+                    "endOffset": 6465
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 6421,
+                        "endColumn": 48,
+                        "endOffset": 6465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6470,
+                    "endColumn": 59,
+                    "endOffset": 6525
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 6470,
+                        "endColumn": 59,
+                        "endOffset": 6525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 6530,
+                    "endColumn": 45,
+                    "endOffset": 6571
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 6530,
+                        "endColumn": 45,
+                        "endOffset": 6571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 6576,
+                    "endColumn": 59,
+                    "endOffset": 6631
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 6576,
+                        "endColumn": 59,
+                        "endOffset": 6631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6636,
+                    "endColumn": 44,
+                    "endOffset": 6676
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 6636,
+                        "endColumn": 44,
+                        "endOffset": 6676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 6681,
+                    "endColumn": 86,
+                    "endOffset": 6763
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 6681,
+                        "endColumn": 86,
+                        "endOffset": 6763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 6768,
+                    "endColumn": 52,
+                    "endOffset": 6816
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 6768,
+                        "endColumn": 52,
+                        "endOffset": 6816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 6821,
+                    "endColumn": 52,
+                    "endOffset": 6869
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 6821,
+                        "endColumn": 52,
+                        "endOffset": 6869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 6874,
+                    "endColumn": 59,
+                    "endOffset": 6929
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 6874,
+                        "endColumn": 59,
+                        "endOffset": 6929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 6934,
+                    "endColumn": 58,
+                    "endOffset": 6988
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 6934,
+                        "endColumn": 58,
+                        "endOffset": 6988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 6993,
+                    "endColumn": 50,
+                    "endOffset": 7039
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 6993,
+                        "endColumn": 50,
+                        "endOffset": 7039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 7044,
+                    "endColumn": 98,
+                    "endOffset": 7138
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 7044,
+                        "endColumn": 98,
+                        "endOffset": 7138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 7143,
+                    "endColumn": 41,
+                    "endOffset": 7180
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 7143,
+                        "endColumn": 41,
+                        "endOffset": 7180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 7185,
+                    "endColumn": 83,
+                    "endOffset": 7264
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 7185,
+                        "endColumn": 83,
+                        "endOffset": 7264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 7269,
+                    "endColumn": 51,
+                    "endOffset": 7316
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 7269,
+                        "endColumn": 51,
+                        "endOffset": 7316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 7321,
+                    "endColumn": 45,
+                    "endOffset": 7362
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 7321,
+                        "endColumn": 45,
+                        "endOffset": 7362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 7367,
+                    "endLine": 166,
+                    "endColumn": 12,
+                    "endOffset": 7653
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 7367,
+                        "endLine": 166,
+                        "endColumn": 12,
+                        "endOffset": 7653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 7658,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 7813
+                },
+                "from": {
+                    "file": "D:\\28yun\\androiduser\\CCQShareSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 7658,
+                        "endLine": 169,
+                        "endColumn": 12,
+                        "endOffset": 7813
+                    }
+                }
+            }
+        ]
+    }
+]

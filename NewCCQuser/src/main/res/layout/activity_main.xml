@@ -1,0 +1,120 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <FrameLayout
+            android:id="@+id/DetailLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </FrameLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/color_line_grey" />
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <RadioGroup
+            android:id="@+id/tabs_rg"
+            android:layout_width="fill_parent"
+            android:layout_height="55dp"
+            android:layout_gravity="center"
+            android:background="@color/color_white"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/radio_ccq"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@color/transparent"
+                android:button="@null"
+                android:checked="true"
+                android:drawableTop="@drawable/selector_mainbotton_ccq"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="首页"
+                android:textColor="@color/selector_mainbotton_text"
+                android:textSize="13sp"
+ 				android:drawablePadding="5dp"/>
+
+            <RadioButton
+                android:id="@+id/radio_sy"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1.0"
+                android:background="@color/transparent"
+                android:button="@null"
+                android:drawableTop="@drawable/selector_mainbotton_sy"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="商城"
+                android:textColor="@color/selector_mainbotton_text"
+                android:textSize="13sp"
+ 				android:drawablePadding="5dp" />
+
+            <RadioButton
+                android:id="@+id/radio_sign"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1.0"
+                android:background="@color/transparent"
+                android:button="@null"
+                android:drawableTop="@drawable/tabred"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="签到"
+                android:textColor="@color/selector_mainbotton_text"
+                android:textSize="13sp" />
+
+            <RadioButton
+                android:id="@+id/radio_gwc"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1.0"
+                android:background="@color/transparent"
+                android:button="@null"
+                android:drawableTop="@drawable/selector_mainbotton_gwc"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="购物车"
+                android:textColor="@color/selector_mainbotton_text"
+                android:textSize="13sp"
+ 				android:drawablePadding="5dp" />
+            
+            <RadioButton
+                android:id="@+id/radio_me"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1.0"
+                android:background="@color/transparent"
+                android:button="@null"
+                android:drawableTop="@drawable/selector_mainbotton_me"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="我的"
+                android:textColor="@color/selector_mainbotton_text"
+                android:textSize="13sp"
+ 				android:drawablePadding="5dp" />
+        </RadioGroup>
+    </FrameLayout>
+
+</LinearLayout>

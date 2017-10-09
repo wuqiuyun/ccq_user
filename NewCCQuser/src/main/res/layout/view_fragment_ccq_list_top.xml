@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/line_net_error"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="加载失败，请点击刷新试试"
+            android:textColor="@color/color_text_grey"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_notnet_refresh"
+            android:layout_width="80dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/redk"
+            android:gravity="center"
+            android:text="刷新看看"
+            android:textColor="@color/color_white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/relay_lunbo"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <ccj.yun28.com.lunbotu.ImageCycleView
+            android:id="@+id/ad_view"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/iv_vip"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/homevip" />
+
+        
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/iv_superquan"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/superq" />
+
+            <ImageView
+                android:id="@+id/iv_bawang"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/bwc" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="当前："
+            android:textColor="@color/color_text_black"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_now_place"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="深圳"
+            android:textColor="@color/color_text_black"
+            android:textSize="14sp" />
+
+        <LinearLayout
+            android:id="@+id/line_dwshuaxin"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="12dp"
+                android:background="@drawable/refresh" />
+        </LinearLayout>
+    </LinearLayout>
+    <RadioGroup
+        android:id="@+id/tabs_rg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp" >
+
+        <RadioButton
+            android:id="@+id/radio_quan"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:background="@color/transparent"
+            android:button="@null"
+            android:checked="true"
+            android:drawableBottom="@drawable/selector_drawable_ccqline_yellow"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/food"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="美食"
+            android:textColor="@color/selector_ccq_text_yellow"
+            android:textSize="16sp" />
+
+        <View 
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:background="@color/color_line_grey"/>
+        <RadioButton
+            android:id="@+id/radio_store"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1.0"
+            android:background="@color/transparent"
+            android:button="@null"
+            android:drawableBottom="@drawable/selector_drawable_ccqline_yellow"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/shop"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="商家"
+            android:textColor="@color/selector_ccq_text_yellow"
+            android:textSize="16sp" />
+    </RadioGroup>
+ 
+</LinearLayout>

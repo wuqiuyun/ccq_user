@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\NewCCQuser\libs\dbutiljar.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95bf94a7d9d9c665033b9ebd60625350307e02de">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\2\dbutiljar_c1358ca4ff49941383bfc61f79a11140f1362da6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\CCQShareSDK\build\intermediates\bundles\default\libs\ShareSDK-ShortMessage-2.7.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807263f42dee0032771964ea9b851fd760789676">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-ShortMessage-2.7.8_e291f0eb253085c8b33e0917ec53602eee374018\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\CCQShareSDK\build\intermediates\bundles\default\libs\ShareSDK-Core-2.7.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d4f2f6171f00541b996aea497469d2a888a46b5">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Core-2.7.8_33967c6736df512cc951a1d03cc7c45dfcedbdef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\CCQShareSDK\build\intermediates\bundles\default\libs\ShareSDK-SinaWeibo-2.7.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f701b050b9120171c4b56eb9aebb807207411a3">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-SinaWeibo-2.7.8_9552d34fbffe82d174268ef65016650872afad02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\NewCCQuser\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_c0d805aa086c26fe00162531b514969610fd4393\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\NewCCQuser\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http.legacy_cd4ab1031a0a9b1abe47dc5f97ddf4bb3d37116b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\CCQShareSDK\build\intermediates\bundles\default\libs\ShareSDK-QZone-2.7.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e58b117b57639dfad46abf1a4dc1cef2c89e35f">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-QZone-2.7.8_1948eb08c73c56cbbed715acfe103980f148b012\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\NewCCQuser\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="994d12017bc2c9ba570180cde5500689d134e6e6">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_a619fb3ec12e5c49c2b6c26eafbdbb698c299a0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\CCQShareSDK\build\intermediates\bundles\default\libs\ShareSDK-Wechat-2.7.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a207b00b5f2628f8297c49c3382b950094b8d358">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Wechat-2.7.8_791dc3da7cfc7c1eaf8e9a4799094565b89caa02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\CCQShareSDK\build\intermediates\bundles\default\libs\ShareSDK-Wechat-Moments-2.7.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fe48d1191412f0fd33291e455a452038896ac74">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Wechat-Moments-2.7.8_570298d974b51a7c7466d9fa9245e2e63ceed169\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\NewCCQuser\libs\alipaySdk-20151112.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ce758768906f045b279735e7cefc0b89160d9d6">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\2\alipaySdk-20151112_ce26208486117f030631d1d4eacd5d261406b94d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\NewCCQuser\libs\umeng-analytics-v6.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d988e1e13f64c0e8e9d935e347f510f712b376b">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v6.1.0_9366b716b3368cdead436f8650415a24d95c611e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\NewCCQuser\libs\core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="96b67e377ff4637ff1fa3bbe9ad7183773935f39">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\2\core_e8da8e536d9da7dc390f55da3418cd3c48015927\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\NewCCQuser\libs\jpush-android-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec655472ad073dd34019d3e2134e028f570598d9">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-2.2.0_e8fa5b1dca0722f41b2edc543194fff45654b43a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\NewCCQuser\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_4ddfccb1c491296f94970d157b7d51dda7084ff0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\CCQShareSDK\build\intermediates\bundles\default\libs\MobCommons-2016.1020.1028.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38b75f509d2c8ceaee2bf62b057a196bfe7d5a94">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\8\MobCommons-2016.1020.1028_33a3d6472667b92526fdbd11fe339193ae102fbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\CCQShareSDK\build\intermediates\bundles\default\libs\MobTools-2016.1020.1028.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dfb24fb5d6913781f91df8dce3a93ca0de692cac">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\8\MobTools-2016.1020.1028_5f3831527cf673eb4a00aaf740bced57cab39fe2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\NewCCQuser\libs\AMap3DMap_4.0.1_AMapNavi_1.9.3_AMapLocation_3.0.0_20161014.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18996fc21a78571fba015209fcfd8df6adc5162d">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\2\AMap3DMap_4.0.1_AMapNavi_1.9.3_AMapLocation_3.0.0_20161014_be2de36b6f0cc091264a32b5a51af57b0d34b4ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\NewCCQuser\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4e6c4c1d49c61cf50d28babdaed131ca6945baec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\CCQShareSDK\build\intermediates\bundles\default\libs\ShareSDK-Wechat-Core-2.7.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="514dc2493f7dce3adb5b37ca2ec9a4b16814ce81">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Wechat-Core-2.7.8_81597cbb48233c2afd91d46e362b026df74d4107\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\NewCCQuser\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9994db97243681d7665d79f0a5ce3bdbb2ecd9c">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b43653847049a66a366b79c402d01a443091f3ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\NewCCQuser\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.14_ad1b7c6a80af920e92e1abcb4211a9dcbc0542de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28yun\androiduser\CCQShareSDK\build\intermediates\bundles\default\libs\ShareSDK-QQ-2.7.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c73e5035e7db5eab2399f7e91ac1d075dc13dce">
+        <dex dex="D:\28yun\androiduser\NewCCQuser\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-QQ-2.7.8_6d66973966fa2f20de544afe700d5fed51e8227e\classes.dex" />
+    </item>
+
+</items>

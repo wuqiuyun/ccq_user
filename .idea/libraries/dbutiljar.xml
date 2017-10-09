@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dbutiljar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NewCCQuser/libs/dbutiljar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

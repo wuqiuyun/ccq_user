@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CCQShareSDK/CCQShareSDK.iml" filepath="$PROJECT_DIR$/CCQShareSDK/CCQShareSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialRefresh/MaterialRefresh.iml" filepath="$PROJECT_DIR$/MaterialRefresh/MaterialRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewCCQuser/NewCCQuser.iml" filepath="$PROJECT_DIR$/NewCCQuser/NewCCQuser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androiduser.iml" filepath="$PROJECT_DIR$/androiduser.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/color_bg" >
+     <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="@color/color_text_black" >
+
+        <LinearLayout
+            android:id="@+id/line_back"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/wleft" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="身份验证"
+            android:textColor="@color/color_white"
+            android:textSize="20sp" />
+
+    </RelativeLayout>
+    
+     <LinearLayout 
+         android:layout_width="fill_parent"
+         android:layout_height="50dp"
+         android:background="@color/color_white"
+         android:orientation="horizontal"
+         android:gravity="center_vertical"
+         android:layout_marginTop="8dp">
+         <TextView 
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="认证手机号"
+             android:layout_marginLeft="18dp"
+             android:layout_marginRight="25dp"
+             android:textColor="@color/color_text_black"
+             android:textSize="16sp"/>
+         <EditText 
+             android:id="@+id/et_rzphone"
+             android:layout_width="0dp"
+             android:layout_weight="1"
+             android:layout_height="wrap_content"
+             android:background="@null"
+             android:hint="请输入您的认证手机号"
+             android:inputType="phone"
+             android:singleLine="true"
+             android:textColor="@color/color_text_grey"
+             android:textSize="14sp"/>
+     </LinearLayout>
+     
+    <TextView
+        android:id="@+id/tv_next"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/yellowsure"
+        android:gravity="center"
+        android:text="下一步"
+        android:textColor="@color/color_white"
+        android:textSize="18sp" />
+
+</LinearLayout>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="@color/color_white" >
+
+        <LinearLayout
+            android:id="@+id/line_back"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/lefth" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_shopname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="店铺名"
+            android:textColor="@color/color_text_black"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <ccj.yun28.com.view.MyScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/line_lunbo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <ccj.yun28.com.lunbotu.ImageCycleView
+                    android:id="@+id/ad_view"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/line_xfmd"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="6dp"
+                android:background="@color/color_white"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="12dp"
+                    android:layout_weight="1"
+                    android:drawableLeft="@drawable/consumption"
+                    android:drawablePadding="10dp"
+                    android:gravity="center_vertical"
+                    android:text="消费买单"
+                    android:textColor="@color/color_text_black" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="12dp"
+                    android:background="@drawable/right" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:background="@color/color_white"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        android:text="店铺环境图"
+                        android:textColor="@color/color_text_grey"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/tv_store_pic_more"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:drawablePadding="5dp"
+                        android:drawableRight="@drawable/moreh"
+                        android:text="更多"
+                        android:textColor="@color/color_red"
+                        android:textSize="14sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:id="@+id/iv_pic_first"
+                        android:layout_width="110dip"
+                        android:layout_height="80dip"
+                        android:layout_marginLeft="8dp"
+                        android:background="@drawable/xinpin"
+                        android:scaleType="fitXY" />
+
+                    <ImageView
+                        android:id="@+id/iv_pic_second"
+                        android:layout_width="110dip"
+                        android:layout_height="80dip"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginRight="8dp"
+                        android:background="@drawable/xinpin"
+                        android:scaleType="fitXY" />
+
+                    <ImageView
+                        android:id="@+id/iv_pic_third"
+                        android:layout_width="110dip"
+                        android:layout_height="80dip"
+                        android:layout_marginRight="8dp"
+                        android:background="@drawable/xinpin"
+                        android:scaleType="fitXY" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="6dp" >
+
+                <RadioGroup
+                    android:id="@+id/tabs_rg"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/radio_qq"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/selector_storedetail_bg"
+                        android:button="@null"
+                        android:checked="true"
+                        android:drawablePadding="5dp"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:text="抢券"
+                        android:textColor="@color/selector_storedetail_text"
+                        android:textSize="14sp" />
+
+                    <RadioButton
+                        android:id="@+id/radio_pj"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/selector_storedetail_bg"
+                        android:button="@null"
+                        android:drawablePadding="5dp"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:text="评价"
+                        android:textColor="@color/selector_storedetail_text"
+                        android:textSize="14sp" />
+
+                    <RadioButton
+                        android:id="@+id/radio_sj"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/selector_storedetail_bg"
+                        android:button="@null"
+                        android:drawablePadding="5dp"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:text="商家"
+                        android:textColor="@color/selector_storedetail_text"
+                        android:textSize="14sp" />
+                </RadioGroup>
+            </FrameLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.2dp"
+                android:background="@color/color_line_grey" />
+
+            <RadioGroup
+                android:id="@+id/tabes_rg"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/color_white"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:visibility="gone" >
+
+                <RadioButton
+                    android:id="@+id/radio_all"
+                    android:layout_width="0dp"
+                    android:layout_height="45dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:button="@null"
+                    android:checked="true"
+                    android:gravity="center"
+                    android:text="全部\n"
+                    android:textColor="@color/selector_mainbotton_text"
+                    android:textSize="14sp" />
+
+                <RadioButton
+                    android:id="@+id/radio_hao"
+                    android:layout_width="0dp"
+                    android:layout_height="45dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="好评\n"
+                    android:textColor="@color/selector_mainbotton_text"
+                    android:textSize="14sp" />
+
+                <RadioButton
+                    android:id="@+id/radio_zhong"
+                    android:layout_width="0dp"
+                    android:layout_height="45dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="中评\n"
+                    android:textColor="@color/selector_mainbotton_text"
+                    android:textSize="14sp" />
+
+                <RadioButton
+                    android:id="@+id/radio_cha"
+                    android:layout_width="0dp"
+                    android:layout_height="45dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="差评\n"
+                    android:textColor="@color/selector_mainbotton_text"
+                    android:textSize="14sp" />
+
+                <RadioButton
+                    android:id="@+id/radio_huifu"
+                    android:layout_width="0dp"
+                    android:layout_height="45dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="已回复\n"
+                    android:textColor="@color/selector_mainbotton_text"
+                    android:textSize="14sp" />
+            </RadioGroup>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/color_bg" />
+
+            <include layout="@layout/fragment_shangjia" />
+
+            <ccj.yun28.com.view.MyListView
+                android:id="@+id/lv"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/color_white"
+                android:divider="@null"
+                android:scrollbars="none" />
+
+            <!--
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <FrameLayout
+                    android:id="@+id/DetailLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+                </FrameLayout>
+            </LinearLayout>            -->
+        </LinearLayout>
+    </ccj.yun28.com.view.MyScrollView>
+
+</LinearLayout>

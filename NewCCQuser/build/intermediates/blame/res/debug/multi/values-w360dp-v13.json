@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "D:\\Eclipse\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\b7ce0ddbf75cbc5fd4f23fd92c231c07b6b360e6\\output\\res\\values-w360dp-v13\\values-w360dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]

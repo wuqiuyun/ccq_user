@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ccj.yun28.com"
+    android:versionCode="219"
+    android:versionName="4.0.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 地图 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!-- Normal Permissions 不需要运行时注册 -->
+    <!-- 获取运营商信息，用于支持提供运营商信息相关的接口 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 这个权限用于获取wifi的获取权限，wifi信息会用来进行网络定位 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <!-- 请求网络 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 不是SDK需要的权限，是示例中的后台唤醒定位需要的权限 -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!-- 需要运行时注册的权限 -->
+    <!-- 用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 写入扩展存储，向扩展卡写入数据，用于写入缓存定位数据 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 读取缓存数据 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- 用于读取手机当前的状态 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 更改设置 -->
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <!-- 分享 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.GET_TOP_ACTIVITY_INFO" />
+
+    <!-- 推送 -->
+    <permission
+        android:name="ccj.yun28.com.permission.JPUSH_MESSAGE"
+        android:protectionLevel="signature" />
+    <!-- Required  一些系统要求的权限，如访问网络等 -->
+    <uses-permission android:name="ccj.yun28.com.permission.JPUSH_MESSAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <!-- Optional for location -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:name="ccj.yun28.com.common.CanCanQApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Black.NoTitleBar" >
+
+        <!-- 友盟key -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="57cf0539e0f55a522d00669c" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="ccq" />
+        <!-- 地图设置key -->
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="@string/zsditukey" />
+        <!-- 定位需要的服务 -->
+        <service android:name="com.amap.api.location.APSService" />
+        <!-- android:name="ccj.yun28.com.WelcomeActivity" -->
+        <!-- 欢迎页 -->
+        <activity
+            android:name="ccj.yun28.com.WelcomeActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 分享 -->
+        <!--
+              <activity
+              android:name="com.mob.tools.MobUIShell"
+              android:configChanges="keyboardHidden|orientation|screenSize"
+              android:screenOrientation="portrait"
+              android:theme="@android:style/Theme.Translucent.NoTitleBar"
+              android:windowSoftInputMode="stateHidden|adjustResize" />
+        -->
+
+        <activity
+            android:name="com.mob.tools.MobUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+
+            <!-- 调用新浪原生SDK，需要注册的回调activity -->
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!--
+             <activity     
+            android:name="ccj.yun28.com.wxapi.WXEntryActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        -->
+
+
+        <!-- 微信页 -->
+        <activity
+            android:name="ccj.yun28.com.wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop" />
+        <!-- 微信页 -->
+        <activity
+            android:name="ccj.yun28.com.wxapi.WXEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop" />
+        <!-- 登录页 -->
+        <activity
+            android:name="ccj.yun28.com.LoginActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait" />
+        <!-- 广告页或引导页 -->
+        <activity
+            android:name="ccj.yun28.com.GuideActivity"
+            android:screenOrientation="portrait" />
+        <!-- 主页 -->
+        <activity
+            android:name="ccj.yun28.com.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ccj.yun28.com.MainActivity1"
+            android:screenOrientation="portrait" />
+        <!-- 注册页 -->
+        <activity
+            android:name="ccj.yun28.com.ZhuCeActivity"
+            android:screenOrientation="portrait" />
+        <!-- 忘记密码页 -->
+        <activity
+            android:name="ccj.yun28.com.ForgetMMActivity"
+            android:screenOrientation="portrait" />
+        <!-- 手机认证页 -->
+        <activity
+            android:name="ccj.yun28.com.PhoneYZActivity"
+            android:screenOrientation="portrait" />
+        <!-- 设置密码页 -->
+        <activity
+            android:name="ccj.yun28.com.SetMMActivity"
+            android:screenOrientation="portrait" />
+        <!-- 认证手机号页 -->
+        <activity
+            android:name="ccj.yun28.com.RZPhoneActivity"
+            android:screenOrientation="portrait" />
+        <!-- 找回密码页 -->
+        <activity
+            android:name="ccj.yun28.com.FindPasswordActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 重置密码页 -->
+        <activity
+            android:name="ccj.yun28.com.MMRegistActivity"
+            android:screenOrientation="portrait" />
+        <!-- 搜索页 -->
+        <activity
+            android:name="ccj.yun28.com.sy.SearchActivity"
+            android:screenOrientation="portrait" />
+        <!-- 加载h5页面 -->
+        <activity
+            android:name="ccj.yun28.com.view.WebviewActivity"
+            android:screenOrientation="portrait" />
+        <!-- 首页  - 扫一扫 -->
+        <activity
+            android:name="ccj.yun28.com.sy.SaoYiSaoActivity"
+            android:screenOrientation="portrait" />
+        <!-- 首页  - 分类 -->
+        <activity
+            android:name="ccj.yun28.com.sy.FenleiActivity"
+            android:screenOrientation="portrait" />
+        <!-- 首页  - 消息 -->
+        <activity
+            android:name="ccj.yun28.com.sy.MessageActivcity"
+            android:screenOrientation="portrait" />
+        <!-- 首页  - 消息 - 物流 -->
+        <activity
+            android:name="ccj.yun28.com.sy.WuLiuActivity"
+            android:screenOrientation="portrait" />
+        <!-- 首页  - 消息 - 通知 -->
+        <activity
+            android:name="ccj.yun28.com.sy.TongZhiActivity"
+            android:screenOrientation="portrait" />
+        <!-- 首页  - 消息 - 活动 -->
+        <activity
+            android:name="ccj.yun28.com.sy.HuodongActivity"
+            android:screenOrientation="portrait" />
+        <!-- 首页  - 消息 - 条目详情 -->
+        <activity
+            android:name="ccj.yun28.com.sy.MessageEveryDetailActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 首页  - 商品详情 -->
+        <activity
+            android:name="ccj.yun28.com.sy.ProductDetailActivity"
+            android:screenOrientation="portrait" />
+        <!-- 首页  - 邀请注册 -->
+        <activity
+            android:name="ccj.yun28.com.sy.YqzcActivity"
+            android:screenOrientation="portrait" />
+        <!-- 首页  - 搜索-商品结果 -->
+        <activity
+            android:name="ccj.yun28.com.sy.SearchProductResultActivity"
+            android:screenOrientation="portrait" />
+        <!-- 首页  - 搜索-店铺结果 -->
+        <activity
+            android:name="ccj.yun28.com.sy.SearchShopResultActivity"
+            android:screenOrientation="portrait" />
+        <!-- 首页  - 搜索-餐餐抢结果 -->
+        <activity
+            android:name="ccj.yun28.com.sy.SearchCCQResultActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ccj.yun28.com.sy.SearchCCQProResultActivity"
+            android:screenOrientation="portrait" />
+        <!-- 餐餐抢首页-全部餐餐抢券 -->
+        <activity
+            android:name="ccj.yun28.com.ccq.AllCcqJuanActivity"
+            android:screenOrientation="portrait" />
+        <!-- 餐餐抢首页-全部餐餐抢店铺 -->
+        <activity
+            android:name="ccj.yun28.com.ccq.AllCcqShopActivity"
+            android:screenOrientation="portrait" />
+        <!-- 餐餐抢首页-新会员免费领取VIP -->
+        <activity
+            android:name="ccj.yun28.com.ccq.NewHuiyuanGetVipActivity"
+            android:screenOrientation="portrait" />
+        <!-- 餐餐抢首页-超值名券 -->
+        <activity
+            android:name="ccj.yun28.com.ccq.ChaoZhiQuanActivity"
+            android:screenOrientation="portrait" />
+        <!-- 餐餐抢首页-超值名券 -->
+        <activity
+            android:name="ccj.yun28.com.ccq.NewChaoJiQuanActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- 餐餐抢首页-霸王餐 -->
+        <activity
+            android:name="ccj.yun28.com.ccq.BaWangCanActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ccj.yun28.com.ccq.NewBaWangCanActivity"
+            android:screenOrientation="portrait" />
+        <!-- 餐餐抢评价列表 -->
+        <activity
+            android:name="ccj.yun28.com.ccq.AllPinjiaActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 餐餐抢店铺详情 -->
+        <activity
+            android:name="ccj.yun28.com.ccq.CCQStoreDetailActivity"
+            android:screenOrientation="portrait" />
+        <!-- 餐餐抢店铺详情-店铺环境图 -->
+        <activity
+            android:name="ccj.yun28.com.ccq.storeHuanjingPicActivity"
+            android:screenOrientation="portrait" />
+        <!-- 支付成功 -->
+        <activity
+            android:name="ccj.yun28.com.mine.ZhifuSuccessActivity"
+            android:screenOrientation="portrait" />
+        <!-- 餐餐抢选择城市 -->
+        <activity
+            android:name="ccj.yun28.com.ccq.ChooseCityActivity"
+            android:screenOrientation="portrait" />
+        <!-- 餐餐抢店铺商品详情 -->
+        <activity
+            android:name="ccj.yun28.com.ccq.CcqProDetailActivity"
+            android:screenOrientation="portrait" />
+        <!-- new餐餐抢店铺商品详情 -->
+        <activity
+            android:name="ccj.yun28.com.ccq.NewCcqProDetailActivity"
+            android:screenOrientation="portrait" />
+        <!-- 购买一元券-订单详情页 -->
+        <activity
+            android:name="ccj.yun28.com.sy.BuyZKJActivity"
+            android:screenOrientation="portrait" />
+        <!-- 购买一元券-收银台页 -->
+        <activity
+            android:name="ccj.yun28.com.ccq.CcqShouYinTaiActivity"
+            android:screenOrientation="portrait" />
+        <!-- 餐餐抢-tag分类详情页 -->
+        <activity
+            android:name="ccj.yun28.com.ccq.CcqTagDetailActivity"
+            android:screenOrientation="portrait" />
+        <!-- 餐餐抢-消费买单 -->
+        <activity
+            android:name="ccj.yun28.com.ccq.XfmdAcyiviy"
+            android:screenOrientation="portrait" />
+        <!-- 餐餐抢-消费买单收银台 -->
+        <activity
+            android:name="ccj.yun28.com.ccq.XfmdShouYinTaiActivity"
+            android:screenOrientation="portrait" />
+        <!-- 购物车-结算 -->
+        <activity
+            android:name="ccj.yun28.com.gwc.TianxieDindanActivity"
+            android:screenOrientation="portrait" />
+        <!-- 购物车-收银台 -->
+        <activity
+            android:name="ccj.yun28.com.gwc.GwcShouYinTaiActivity"
+            android:screenOrientation="portrait" />
+        <!-- 购物车-发票明细 -->
+        <activity
+            android:name="ccj.yun28.com.gwc.FaPiaoInfoActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-收货地址 -->
+        <activity
+            android:name="ccj.yun28.com.mine.MyAddressActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-新增收货地址 -->
+        <activity
+            android:name="ccj.yun28.com.mine.AddAdressActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-全部订单 -->
+        <activity
+            android:name="ccj.yun28.com.mine.AllDinDanActivtiy"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ccj.yun28.com.neworder.MyOrderFrament"
+            android:screenOrientation="portrait" />
+        <!-- 我的-全部订单-支付-线上 -->
+        <activity
+            android:name="ccj.yun28.com.mine.Mine_Dindan_TianxieDindanActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-全部订单-支付-餐餐抢 -->
+        <activity
+            android:name="ccj.yun28.com.mine.Mine_DinDan_BuyZKJActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-全部订单-查看物流 -->
+        <activity
+            android:name="ccj.yun28.com.mine.ChaKanWuLiuActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-全部订单-查看券码 -->
+        <activity
+            android:name="ccj.yun28.com.mine.ChaKanJuanMaActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-全部订单-去评价 -->
+        <activity
+            android:name="ccj.yun28.com.mine.QuPingJiaActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-全部订单-普通商品去评价 -->
+        <activity
+            android:name="ccj.yun28.com.mine.XSQuPingJiaActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-全部订单-详情普通商品去评价 -->
+        <activity
+            android:name="ccj.yun28.com.mine.ProDetailXSQuPingJiaActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-全部订单-先消费后买单 -->
+        <activity
+            android:name="ccj.yun28.com.mine.XiaofeiMaidanDetailActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-全部订单-退款售后详情 -->
+        <activity
+            android:name="ccj.yun28.com.mine.TuiKuanDinDanDetailActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-设置 -->
+        <activity
+            android:name="ccj.yun28.com.mine.SettingActivtiy"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ccj.yun28.com.mine.NewSettingActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 我的-设置-账户关联设置 -->
+        <activity
+            android:name="ccj.yun28.com.mine.ZhangHuGuanLianActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 我的-个人资料 -->
+        <activity
+            android:name="ccj.yun28.com.mine.SettingInfoActivtiy"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ccj.yun28.com.mine.NewSettingInfoActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 我的-修改头像 -->
+        <activity
+            android:name="ccj.yun28.com.mine.TouXiangActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-修改昵称 -->
+        <activity
+            android:name="ccj.yun28.com.mine.NichengActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-关于我们 -->
+        <activity
+            android:name="ccj.yun28.com.mine.AboutWeActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 我的-选择地址 -->
+        <activity
+            android:name="ccj.yun28.com.mine.ChooseShengShiQuActicity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-账户与安全 -->
+        <activity
+            android:name="ccj.yun28.com.mine.ZhangHuAndSafeActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 我的-账户与安全-修改登录密码 -->
+        <activity
+            android:name="ccj.yun28.com.mine.LoginMiMaActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ccj.yun28.com.mine.SetLoginmimaActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-账户与安全-设置支付密码 -->
+        <activity
+            android:name="ccj.yun28.com.mine.ShezhiPayMiMaActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ccj.yun28.com.mine.SetPaymimaActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-账户与安全-修改支付密码 -->
+        <activity
+            android:name="ccj.yun28.com.mine.XiuGaiPayMiMaActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-账户与安全-忘记支付密码 -->
+        <activity
+            android:name="ccj.yun28.com.mine.WangJiPayMiMaActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-账户与安全-找回支付密码 -->
+        <activity
+            android:name="ccj.yun28.com.mine.FindPayPasswordActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 我的-账户与安全-修改支付密码 -->
+        <activity
+            android:name="ccj.yun28.com.mine.XiuGaiZhiFuMiMaActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-账户与安全-实名认证 -->
+        <activity
+            android:name="ccj.yun28.com.mine.ShiMingRenZhengActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-账户与安全-未实名认证 -->
+        <activity
+            android:name="ccj.yun28.com.mine.WeiShiMingRenZhengActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ccj.yun28.com.mine.NewWeiShiMingRenZhengActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ccj.yun28.com.mine.NewWeiShiMingRenZhengNextActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-账户与安全-手机认证 -->
+        <activity
+            android:name="ccj.yun28.com.mine.PhoneRenZhengActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-账户与安全-关联手机 -->
+        <activity
+            android:name="ccj.yun28.com.NewBindPhoneActivity"
+            android:screenOrientation="portrait" />
+        <!-- 填写订单-关联手机 -->
+        <activity
+            android:name="ccj.yun28.com.PayBindPhoneActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-VIP会员 -->
+        <activity
+            android:name="ccj.yun28.com.mine.VIPhuiyuanActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-VIP购买收银台 -->
+        <activity
+            android:name="ccj.yun28.com.mine.BuyVIPShouYinTaiActivtity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-云币兑换VIP会员 -->
+        <activity
+            android:name="ccj.yun28.com.mine.YunBiDuiHuanVIPActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-云币收银台 -->
+        <activity
+            android:name="ccj.yun28.com.mine.YunBiShouYingTaiActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-我的钱包 -->
+        <activity
+            android:name="ccj.yun28.com.mine.MyWalletActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ccj.yun28.com.mine.NewMyWalletActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-云币或余额详情 -->
+        <activity
+            android:name="ccj.yun28.com.mine.YunBiORYuEDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ccj.yun28.com.mine.NewYunBiORYuEDetailActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-佣金详情 -->
+        <activity
+            android:name="ccj.yun28.com.mine.YongjinDetailActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-银行卡详情 -->
+        <activity
+            android:name="ccj.yun28.com.mine.BankCardActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-添加银行卡详情 -->
+        <activity
+            android:name="ccj.yun28.com.mine.AddBankCardActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ccj.yun28.com.mine.NewAddBankCardActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-添加银行卡图片 -->
+        <activity
+            android:name="ccj.yun28.com.mine.AddBankPicActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-提现页面 -->
+        <activity
+            android:name="ccj.yun28.com.mine.TiXianActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-银行卡列表 -->
+        <activity
+            android:name="ccj.yun28.com.mine.BankCardListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-提现记录 -->
+        <activity
+            android:name="ccj.yun28.com.mine.TiXianRecordActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-提现详情 -->
+        <activity
+            android:name="ccj.yun28.com.mine.TiXianTecordDetailActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 我的-问题反馈 -->
+        <activity
+            android:name="ccj.yun28.com.mine.ProblemActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-意见反馈 -->
+        <activity
+            android:name="ccj.yun28.com.mine.YiJianFanKuiActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-我要开店 -->
+        <activity
+            android:name="ccj.yun28.com.mine.OpenStoreActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 我的-待付款 -->
+        <activity
+            android:name="ccj.yun28.com.mine.DFKDinDanActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 我的-待收货 -->
+        <activity
+            android:name="ccj.yun28.com.mine.DSHDinDanActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 我的-待使用 -->
+        <activity
+            android:name="ccj.yun28.com.mine.DSYDinDanActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 我的-待评价 -->
+        <activity
+            android:name="ccj.yun28.com.mine.DPJDinDanActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 我的-退款售后列表 -->
+        <activity
+            android:name="ccj.yun28.com.mine.TKSHDinDanActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 我的-餐餐抢订单详情 -->
+        <activity
+            android:name="ccj.yun28.com.mine.CCQDinDanDetailActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-退款退货 -->
+        <activity
+            android:name="ccj.yun28.com.mine.TuikuanTuihuoActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的- 添加银行卡 - 未认证 -->
+        <activity
+            android:name="ccj.yun28.com.mine.AddBankCardWRZActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的- 新我要开店-商家入驻 -->
+        <activity
+            android:name="ccj.yun28.com.mine.NewOpenStoreActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 商家入驻-所属行业 -->
+        <activity
+            android:name="ccj.yun28.com.mine.SuoShuHangYeActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的-导航页 -->
+        <!--
+            <activity
+            android:name=".DaohangActivity"
+            android:screenOrientation="portrait" />
+        -->
+        <!-- 我的-关联认证手机号 -->
+        <activity
+            android:name="ccj.yun28.com.BindPhoneActivtiy"
+            android:screenOrientation="portrait" />
+        <!-- 关联手机号 -->
+        <activity
+            android:name="ccj.yun28.com.YuanPhone_yzm_nextActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ccj.yun28.com.YuanPhone_yzmActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ccj.yun28.com.ShuRuNewPhone_yzmActivity"
+            android:screenOrientation="portrait" />
+        <!-- 地图 -->
+        <activity
+            android:name="com.amap.location.demo.Alarm_Location_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.amap.location.demo.Assistant_Location_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.amap.location.demo.CheckPermissionsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.amap.location.demo.ErrorCode_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.amap.location.demo.GeoFence_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.amap.location.demo.LastLocation_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.amap.location.demo.Location_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.amap.location.demo.StartActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.amap.location.demo.Tools_Activity"
+            android:screenOrientation="portrait" />
+        <!--
+            <activity
+            android:name="com.alipay.sdk.pay.demo.H5PayDemoActivity"
+            android:configChanges="orientation|navigation"
+            android:exported="false"
+            android:screenOrientation="behind" />
+        -->
+        <activity
+            android:name="com.amap.location.navi.GPSNaviActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light.NoTitleBar" />
+        <!-- 推送 -->
+        <!-- For test only 测试高级功能 -->
+        <activity
+            android:name="com.example.jpushdemo.PushSetActivity"
+            android:label="@string/app_name" />
+        <!-- For test only 测试设置 -->
+        <activity
+            android:name="com.example.jpushdemo.SettingActivity"
+            android:label="@string/app_name" />
+        <!-- For test only 测试状态通知栏，需要打开的Activity -->
+        <activity
+            android:name="com.example.jpushdemo.TestActivity"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="jpush.testAction" />
+
+                <category android:name="jpush.testCategory" />
+            </intent-filter>
+        </activity>
+
+        <!-- Rich push 核心功能 since 2.0.6 -->
+        <activity
+            android:name="cn.jpush.android.ui.PopWinActivity"
+            android:exported="false"
+            android:theme="@style/MyDialogStyle" />
+
+        <!-- Required SDK核心功能 -->
+        <activity
+            android:name="cn.jpush.android.ui.PushActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:exported="false"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.ui.PushActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="ccj.yun28.com" />
+            </intent-filter>
+        </activity>
+        <!-- Required  SDK核心功能 -->
+        <service
+            android:name="cn.jpush.android.service.DownloadService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <!-- Required SDK 核心功能 -->
+        <!-- 可配置android:process参数将PushService放在其他进程中 -->
+        <service
+            android:name="cn.jpush.android.service.PushService"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTER" />
+                <action android:name="cn.jpush.android.intent.REPORT" />
+                <action android:name="cn.jpush.android.intent.PushService" />
+                <action android:name="cn.jpush.android.intent.PUSH_TIME" />
+            </intent-filter>
+        </service>
+
+        <!-- since 1.8.0 option 可选项。用于同一设备中不同应用的JPush服务相互拉起的功能。 -->
+        <!-- 若不启用该功能可删除该组件，将不拉起其他应用也不能被其他应用拉起 -->
+        <service
+            android:name="cn.jpush.android.service.DaemonService"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.DaemonService" />
+
+                <category android:name="ccj.yun28.com" />
+            </intent-filter>
+        </service>
+
+        <!-- Required SDK核心功能 -->
+        <receiver
+            android:name="cn.jpush.android.service.PushReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter android:priority="1000" >
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY" />
+                <!-- Required  显示通知栏 -->
+                <category android:name="ccj.yun28.com" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <!-- Optional -->
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Required SDK核心功能 -->
+        <receiver
+            android:name="cn.jpush.android.service.AlarmReceiver"
+            android:exported="false" />
+
+        <!-- User defined.  For test only  用户自定义的广播接收器 -->
+        <receiver
+            android:name="com.example.jpushdemo.MyReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTRATION" />
+                <!-- Required  用户注册SDK的intent -->
+                <action android:name="cn.jpush.android.intent.MESSAGE_RECEIVED" />
+                <!-- Required  用户接收SDK消息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED" />
+                <!-- Required  用户接收SDK通知栏信息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_OPENED" />
+                <!-- Required  用户打开自定义通知栏的intent -->
+                <action android:name="cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK" />
+                <!-- Optional 用户接受Rich Push Javascript 回调函数的intent -->
+                <action android:name="cn.jpush.android.intent.CONNECTION" />
+                <!-- 接收网络变化 连接/断开 since 1.6.3 -->
+                <category android:name="ccj.yun28.com" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Required  . Enable it you can get statistics data with channel -->
+        <meta-data
+            android:name="JPUSH_CHANNEL"
+            android:value="developer-default" />
+        <meta-data
+            android:name="JPUSH_APPKEY"
+            android:value="e5ad979812641a0668d7c291" />
+        <!-- </>值来自开发者平台取得的AppKey -->
+        <activity
+            android:name="ccj.yun28.com.RecmmendGoodsActivity"
+            android:label="@string/title_activity_recmmend_goods" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="ccj.yun28.com.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

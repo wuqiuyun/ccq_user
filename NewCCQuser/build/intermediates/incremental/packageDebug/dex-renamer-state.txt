@@ -1,0 +1,7 @@
+#Mon Oct 09 09:36:49 CST 2017
+base.0=D\:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b43653847049a66a366b79c402d01a443091f3ec
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4e6c4c1d49c61cf50d28babdaed131ca6945baec\\classes.dex
+base.1=D\:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4e6c4c1d49c61cf50d28babdaed131ca6945baec
+file.0=D\:\\28yun\\androiduser\\NewCCQuser\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b43653847049a66a366b79c402d01a443091f3ec\\classes.dex

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="@color/color_text_black" >
+
+        <LinearLayout
+            android:id="@+id/line_back"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/wleft" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="绑定手机"
+            android:textColor="@color/color_white"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="95dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:text="输入手机号码"
+            android:textColor="@color/color_text_black"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/edit_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="40dp"
+            android:background="@drawable/shurukuang"
+            android:hint="请输入手机号码"
+            android:singleLine="true"
+            android:inputType="phone"
+            android:paddingLeft="5dp"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="95dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:text="验证码"
+            android:textColor="@color/color_text_black"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/edit_yzm"
+            android:layout_width="90dip"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shurukuang"
+            android:hint="请输入验证码"
+            android:singleLine="true"
+            android:inputType="number"
+            android:paddingLeft="5dp"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_fstype"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:background="@drawable/redkuang"
+            android:gravity="center"
+            android:textColor="@color/color_red"
+            android:text="发送验证码"
+            android:textSize="12sp"/>
+        <TextView
+            android:id="@+id/tv_fsmore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:gravity="center"
+            android:textColor="@color/color_text_black"
+            android:textSize="12sp"
+            android:visibility="gone"  />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_ok"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/yellowsure"
+        android:gravity="center"
+        android:text="确定"
+        android:textColor="@color/color_white"
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="*每个手机号码1个小时内，最多发送三次短信验证码"
+        android:textColor="@color/color_red"
+        android:textSize="12sp" />
+
+</LinearLayout>

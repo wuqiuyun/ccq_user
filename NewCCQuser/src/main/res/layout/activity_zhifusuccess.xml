@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="@color/color_text_black" >
+
+        <LinearLayout
+            android:id="@+id/line_finish"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="完成"
+                android:textColor="@color/color_white" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="支付成功"
+            android:textColor="@color/color_white"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:background="@color/color_white"
+        android:orientation="vertical"
+        android:gravity="center" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="12dp"
+                android:background="@drawable/gouxgreed" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="支付成功"
+                android:textColor="@color/color_dindanzt_green"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:layout_marginTop="6dp"
+                android:text="订单金额： "
+                android:textColor="@color/color_text_black"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_jine"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:layout_marginTop="6dp"
+                android:textColor="@color/color_red"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/color_line_grey" />
+
+        <ImageView
+            android:id="@+id/iv_erweima"
+            android:layout_width="150dip"
+            android:layout_height="150dip"
+            android:background="@drawable/xinpin"
+            android:scaleType="fitXY"
+            android:layout_margin="12dp"
+            android:visibility="gone" />
+        
+        <TextView 
+            android:id="@+id/tv_djj_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="代金券"
+            android:textColor="@color/color_text_grey"
+            android:textSize="14sp"
+            android:visibility="gone"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            android:text="注：28云不会以订单异常，系统升级为理由，要求您点击任何链接进行退款操作。"
+            android:textColor="@color/color_text_grey"
+            android:textSize="14sp" />
+    </LinearLayout>
+    
+    <TextView 
+        android:id="@+id/tv_home"
+        android:layout_width="fill_parent"
+        android:layout_height="40dip"
+        android:text="回首页"
+        android:background="@drawable/redk"
+        android:textColor="@color/color_white"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"/>
+    <TextView 
+        android:id="@+id/tv_look_dindan"
+        android:layout_width="fill_parent"
+        android:layout_height="40dip"
+        android:text="查看订单"
+        android:background="@drawable/dibugrey"
+        android:textColor="@color/color_white"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"/>
+
+</LinearLayout>

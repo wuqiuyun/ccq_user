@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="easypermissions-0.1.9">
+    <CLASSES>
+      <root url="jar://D:/Eclipse/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/a9f2414d0b9b310636c79a852c12f9508d97f299/output/jars/classes.jar!/" />
+      <root url="file://D:/Eclipse/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/a9f2414d0b9b310636c79a852c12f9508d97f299/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pub.devrel/easypermissions/0.1.9/dae764d43187abac86705154e13de786ff0a84be/easypermissions-0.1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

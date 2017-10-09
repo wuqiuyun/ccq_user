@@ -1,0 +1,45 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '25.0.2'
+
+    defaultConfig {
+        applicationId "ccj.yun28.com"
+        minSdkVersion 15
+        targetSdkVersion 25
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+    }
+
+    aaptOptions.cruncherEnabled = false
+    aaptOptions.useNewCruncher = false
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':MaterialRefresh')
+    compile project(':CCQShareSDK')
+    //compile 'com.android.support:support-v4:19.1.0'
+    compile 'com.google.code.gson:gson:2.3.1'
+    compile files('libs/alipaySdk-20151112.jar')
+    compile files('libs/AMap3DMap_4.0.1_AMapNavi_1.9.3_AMapLocation_3.0.0_20161014.jar')
+    compile files('libs/core.jar')
+    compile files('libs/dbutiljar.jar')
+    compile files('libs/jpush-android-2.2.0.jar')
+    compile files('libs/libammsdk.jar')
+    compile files('libs/Msc.jar')
+    compile files('libs/picasso-2.5.2.jar')
+    compile files('libs/umeng-analytics-v6.1.0.jar')
+    compile files('libs/xUtils-2.6.14.jar')
+    compile files('libs/org.apache.http.legacy.jar')
+    compile 'pub.devrel:easypermissions:0.1.9'
+}

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_white"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/iv_pic"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/xinpin"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="8dp"
+                android:text="描述相符"
+                android:textColor="@color/color_text_black"
+                android:textSize="16sp" />
+
+            <ccj.yun28.com.view.star.StarLinearLayout
+                android:id="@+id/starsLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:orientation="horizontal" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.2dp"
+            android:background="@color/color_line_grey" />
+
+        <EditText
+            android:id="@+id/et_pingjia"
+            android:layout_width="fill_parent"
+            android:layout_height="130dp"
+            android:background="@null"
+            android:hint="写下购买体会和使用感受来帮助其他小伙伴"
+            android:maxLength="501"
+            android:padding="8dp"
+            android:textColor="@color/color_text_grey"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_zishu"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginRight="12dp"
+            android:gravity="right"
+            android:text="0/500" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.2dp"
+        android:layout_marginBottom="6dp"
+        android:background="@color/color_line_grey" />
+
+</LinearLayout>

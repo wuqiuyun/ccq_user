@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dip"
+        android:layout_marginRight="25dip"
+        android:background="@drawable/lhyk"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/lhytv_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="18dip"
+            android:layout_marginRight="18dip"
+            android:layout_marginTop="16dip"
+            android:lineSpacingExtra="3dp"
+            android:text="哇噻，原来你已经是老会员了，好捏害的赶脚啊！据说现在充值三个月送一个月，充值三年直接升级终身VIP，哪怕充值9.8元成为一个月VIP，都可以达到“吃遍大江南北，享遍莞式服务（别想歪）”的效果哦！"
+            android:textColor="@color/color_text_grey" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="35dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tv_xwl"
+                android:layout_width="0dp"
+                android:layout_height="35dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="想歪了"
+                android:textColor="@color/color_red"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tv_wyqxs"
+                android:layout_width="0dp"
+                android:layout_height="35dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="我要去享受"
+                android:textColor="@color/color_text_dk_green"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="70dp"
+        android:background="@color/color_text_black"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="25dp" >
+
+            <TextView
+                android:id="@+id/tv_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="8dp"
+                android:drawableLeft="@drawable/mapp"
+                android:drawablePadding="5dp"
+                android:ellipsize="end"
+                android:ems="8"
+                android:gravity="center_vertical"
+                android:singleLine="true"
+                android:textColor="@color/color_white"
+                android:textSize="12sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="附近"
+                android:textColor="@color/color_white"
+                android:textSize="20sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_white"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp" >
+
+        <TextView
+            android:id="@+id/tv_fjsto"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/businesser"
+            android:gravity="center"
+            android:text="附近商家"
+            android:textColor="@color/color_text_black"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_food"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/foodd"
+            android:gravity="center"
+            android:text="美食"
+            android:textColor="@color/color_text_black"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_hotel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/hotel"
+            android:gravity="center"
+            android:text="酒店"
+            android:textColor="@color/color_text_black"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_relax"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/xiuxian"
+            android:gravity="center"
+            android:text="休闲"
+            android:textColor="@color/color_text_black"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_beauty"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/liren"
+            android:gravity="center"
+            android:text="丽人"
+            android:textColor="@color/color_text_black"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <RadioGroup
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:background="@color/color_white"
+        android:clickable="true"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/radio_qt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/transparent"
+            android:button="@null"
+            android:checked="true"
+            android:gravity="center"
+            android:singleLine="true"
+            android:textSize="12sp" />
+
+        <RadioButton
+            android:id="@+id/radio_qu"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@color/transparent"
+            android:button="@null"
+            android:drawablePadding="2dp"
+            android:drawableRight="@drawable/selector_drawable_fujin_yellow"
+            android:gravity="center"
+            android:padding="5dp"
+            android:singleLine="true"
+            android:text="选择"
+            android:textColor="@color/selector_ccq_text_yellow"
+            android:textSize="12sp" />
+
+        <RadioButton
+            android:id="@+id/radio_street"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@color/transparent"
+            android:button="@null"
+            android:drawablePadding="2dp"
+            android:drawableRight="@drawable/selector_drawable_fujin_yellow"
+            android:gravity="center"
+            android:padding="5dp"
+            android:singleLine="true"
+            android:text="选择"
+            android:textColor="@color/selector_ccq_text_yellow"
+            android:textSize="12sp" />
+
+        <RadioButton
+            android:id="@+id/radio_smart"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@color/transparent"
+            android:button="@null"
+            android:drawablePadding="2dp"
+            android:drawableRight="@drawable/selector_drawable_fujin_yellow"
+            android:gravity="center"
+            android:padding="5dp"
+            android:singleLine="true"
+            android:text="智能选择"
+            android:textColor="@color/selector_ccq_text_yellow"
+            android:textSize="12sp" />
+
+        <RadioButton
+            android:id="@+id/radio_range"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@color/transparent"
+            android:button="@null"
+            android:drawablePadding="2dp"
+            android:drawableRight="@drawable/selector_drawable_fujin_yellow"
+            android:gravity="center"
+            android:padding="5dp"
+            android:singleLine="true"
+            android:text="筛选"
+            android:textColor="@color/selector_ccq_text_yellow"
+            android:textSize="12sp" />
+    </RadioGroup>
+
+    <View
+        android:id="@+id/v_line"
+        android:layout_width="fill_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/color_line_grey" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/color_white" >
+
+        <com.cjj.MaterialRefreshLayout
+            android:id="@+id/refresh_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/color_white" >
+
+            <ListView
+                android:id="@+id/lv"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/color_white"
+                android:divider="@null" />
+        </com.cjj.MaterialRefreshLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_empty"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bbjia"
+                    android:scaleType="fitXY" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:layout_marginLeft="10dp"
+                    android:text="更多商家正在开发中......"
+                    android:textColor="@color/color_text_black"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_refresh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/baoan"
+                android:padding="3dp"
+                android:paddingBottom="3dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingTop="3dp"
+                android:text="重新筛选数据"
+                android:textColor="@color/color_text_black"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </FrameLayout>
+
+</LinearLayout>
